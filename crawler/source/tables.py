@@ -2,12 +2,14 @@ BRANDS = {
     "id": "brand_id",
     "name": "brand_name",
 }
-BRANDS_LIST = [key for key in BRANDS]
+BRANDS_COLUMNS = [key for key in BRANDS]
 
 PRODUCTS = {
     "id": "id",
-    # "brand_id": "brand_id",
+    "brand_id": "brand_id",
+    "brand_name": "brand_name",
     "name": "name",
+    "model": "item_model_number",
     "url_key": "url_key",
     "price": "original_price",
     # "quantity_store": "quantity_store",
@@ -27,6 +29,7 @@ PRODUCTS = {
     "gpu": "chip_do_hoa",
     "ram": "ram",
     "storage_capacity": "rom",
+    "storage_capacity2": "kha_dung",
     "dimensions": "dimensions",
     "height": "height",
     "width": "width",
@@ -46,7 +49,7 @@ PRODUCTS = {
     "wifi": "wifi",
     "made_in": "origin",
 }
-PRODUCTS_LIST = [key for key in PRODUCTS]
+PRODUCTS_COLUMNS = [key for key in PRODUCTS]
 
 PRODUCT_DETAILS = {
     "id": "id",
@@ -55,16 +58,12 @@ PRODUCT_DETAILS = {
     "color_name": "color_name",
     "url_key": "url_key",
     "sell_price": "sell_price",
-    "star_1": "star_1",
-    "star_2": "star_2",
-    "star_3": "star_3",
-    "star_4": "star_4",
-    "star_5": "star_5",
+    "rating": "rating",
 }
-PRODUCT_DETAILS_LIST = [key for key in PRODUCT_DETAILS]
+PRODUCT_DETAILS_COLUMNS = [key for key in PRODUCT_DETAILS]
 
 SELLERS = {
     "id": "id",
     "name": "name",
 }
-SELLERS_LIST = [key for key in SELLERS]
+SELLERS_COLUMNS = [key for key in SELLERS]
