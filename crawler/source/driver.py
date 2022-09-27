@@ -2,9 +2,12 @@ import os
 import pandas as pd
 
 from bs4 import BeautifulSoup as BS
+
 from selenium import webdriver
+from selenium.webdriver import DesiredCapabilities
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.chrome.service import Service as ChromeService
+
 from .constant import URL_PRODUCT
 from .tables import BRANDS, PRODUCTS
 from .utils import pre_tag_to_json, json_dump
@@ -25,13 +28,14 @@ def create_driver(url):
     options.add_experimental_option("excludeSwitches", ["enable-logging"])
     options.add_experimental_option("useAutomationExtension", False)
     options.add_argument("--headless")
+    options.set_capability("x-source", "local")
 
     driver = webdriver.Chrome(service=service, options=options)
 
     driver.get(url)
 
     page_source = driver.page_source
-
+    # sleep(60)
     soup = BS(page_source, "html.parser")
 
     return driver, soup
