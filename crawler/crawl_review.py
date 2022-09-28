@@ -29,15 +29,17 @@ from source.tables import (
 
 products_csv = "output/csv/products.csv"
 sellers_csv = "output/csv/sellers.csv"
-
+reviews_csv = "output/csv/product_reviews.csv"
 
 products = pd.read_csv(products_csv).to_dict("records")
 sellers = pd.read_csv(sellers_csv).to_dict("records")
+reviews = pd.read_csv(reviews_csv).to_dict("records")
 
-df_reviews = pd.DataFrame(columns=TABLE_REVIEW_COLUMNS)
+df_reviews = pd.read_csv(reviews_csv)
+first_column = df_reviews.columns[0]
+df_reviews = df_reviews.drop([first_column], axis=1)
 
-for product in products:
-    break
+for prod_index, product in enumerate(products):
     prod_id = product["id"]
 
     for seller in sellers:
@@ -57,7 +59,7 @@ for product in products:
             count_reviews = {}
             for review_page in range(1, review_last_page):
                 print(
-                    f"Crawling seller_id {seller_id} - page {review_page}, product_id {prod_id}"
+                    f"Crawling {prod_index} --- product_id {prod_id} seller_id {seller_id} - page {review_page}"
                 )
                 review_driver, review_soup = create_driver(
                     URL_REVIEW.format(review_page, prod_id, seller_id)
@@ -105,80 +107,9 @@ for product in products:
                     [df_reviews, df_review_db_row], ignore_index=True
                 )
 
-print(df_reviews)
-#     for prod in prod_page_data:
-#         try:
-#             prod_id = prod["id"]
-#             prod_db_row = {}
+        else:
+            print(
+                f"Product {prod_index} --- {prod_id} and Seller {seller_id} has no review"
+            )
 
-#             print(f"Crawling Product Detail: {prod_id}")
-#             prod_detail_driver, prod_detail_soup = create_driver(
-#                 URL_PRODUCT_DETAIL.format(prod_id)
-#             )
-#             prod_detail = pre_tag_to_json(prod_detail_soup)
-
-#             prod_detail_atts = [
-#                 pd["attributes"]
-#                 for pd in prod_detail["specifications"]
-#                 if pd["name"] == "Content"
-#             ][0]
-
-#             for key in TABLE_PRODUCT:
-#                 prod_key = TABLE_PRODUCT[key]
-
-#                 if prod.get(prod_key):
-#                     prod_value = prod[prod_key]
-#                     prod_db_row[key] = [prod_value]
-
-#                 if prod_detail.get(prod_key):
-#                     prod_value = prod_detail[prod_key]
-#                     prod_db_row[key] = [prod_value]
-
-#                 for prod_detail_att in prod_detail_atts:
-#                     if prod_detail_att["code"] == prod_key:
-#                         prod_db_row[key] = [prod_detail_att["value"]]
-
-#                 if prod_db_row.get(key) is None:
-#                     prod_db_row[key] = "N/A"
-
-#             df_prod_db_row = pd.DataFrame(prod_db_row)
-#             df_products = pd.concat([df_products, df_prod_db_row], ignore_index=True)
-
-#             prod_childs = prod_detail["configurable_products"]
-#             prod_child_db_row = {}
-
-#             for prod_child in prod_childs:
-#                 prod_child_id = prod_child["id"]
-
-#                 # Product detail
-#                 print(f"Crawling Product Child: {prod_child_id}")
-#                 prod_child_driver, prod_child_soup = create_driver(
-#                     URL_PRODUCT_CHILD_BY_SELLER.format(prod_child_id)
-#                 )
-
-#                 prod_child_data = pre_tag_to_json(prod_child_soup)
-#                 prod_child_by_sellers = prod_child_data["all_sellers"]
-
-#                 for pd_by_seller in prod_child_by_sellers:
-#                     prod_child_db_row["id"] = [prod_child_id]
-#                     prod_child_db_row["product_id"] = [prod_id]
-#                     prod_child_db_row["color"] = [prod_child["option1"]]
-#                     prod_child_db_row["seller_id"] = [pd_by_seller["seller"]["id"]]
-#                     prod_child_db_row["store_id"] = [pd_by_seller["seller"]["store_id"]]
-#                     prod_child_db_row["price"] = [pd_by_seller["price"]["value"]]
-
-#                     df_prod_child_db_row = pd.DataFrame(prod_child_db_row)
-#                     df_product_details = pd.concat(
-#                         [df_product_details, df_prod_child_db_row], ignore_index=True
-#                     )
-
-#                 # Product review
-
-#         except Exception as e:
-#             print(e)
-#             continue
-
-
-# create_csv_file("products.csv", df_products)
-# create_csv_file("product_details.csv", df_product_details)
-create_csv_file("reviews.csv", df_reviews)
+    create_csv_file("product_reviews.csv", df_reviews)
