@@ -12,7 +12,7 @@ URL_SELLER = "https://tiki.vn/api/v2/pdp/delivery/sellers/{}"
 URL_REVIEW = "https://tiki.vn/api/v2/reviews?limit=20&include=comments,contribute_info&page={}&product_id={}&seller_id={}"
 PARAMS_PRODUCTS = "limit=100&q=smartphone&category=1795"
 
-OUTSOURCE_PATH = "output/csv2/{}"
+OUTSOURCE_PATH = "output/csv/{}"
 PRODUCTS_RAW_FILE = "products_raw.csv"
 PRODUCTS_FILTER_FILE = "products_filters.csv"
 PRODUCTS_DETAIL_LV1 = "products_detail_lv1.csv"

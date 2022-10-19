@@ -1,31 +1,18 @@
 ,id,name
 0,VN039,Hồ Chí Minh
 1,VN034,Hà Nội
-2,VN065,Thái Nguyên
-3,VN052,Ninh Bình
-4,VN025,Đà Nẵng
-5,VN012,Bà Rịa - Vũng Tàu
-6,VN019,Bình Dương
-7,VN018,Bình Định
-8,VN013,Bắc Giang
-9,VN016,Bắc Ninh
-10,VN017,Bến Tre
-11,VN023,Cần Thơ
-12,VN033,Hà Nam
-13,VN041,Hưng Yên
-14,VN036,Hải Dương
-15,VN037,Hải Phòng
-16,VN047,Lạng Sơn
-17,VN050,Nam Định
-18,VN051,Nghệ An
-19,VN053,Ninh Thuận
-20,VN054,Phú Thọ
-21,VN057,Quảng Nam
-22,VN058,Quảng Ngãi
-23,VN059,Quảng Ninh
-24,VN066,Thanh Hóa
-25,VN064,Thái Bình
-26,VN068,Tiền Giang
-27,VN072,Vĩnh Phúc
-28,VN026,Đắk Lắk
-29,VN029,Đồng Nai
+2,VN017,Bến Tre
+3,VN051,Nghệ An
+4,VN023,Cần Thơ
+5,VN013,Bắc Giang
+6,VN016,Bắc Ninh
+7,VN041,Hưng Yên
+8,VN036,Hải Dương
+9,VN037,Hải Phòng
+10,VN050,Nam Định
+11,VN052,Ninh Bình
+12,VN054,Phú Thọ
+13,VN058,Quảng Ngãi
+14,VN059,Quảng Ninh
+15,VN066,Thanh Hóa
+16,VN025,Đà Nẵng
