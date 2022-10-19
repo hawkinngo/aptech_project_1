@@ -22,8 +22,6 @@ from source.tables import (
     TABLE_PRODUCT_COLUMNS,
     TABLE_PRODUCT_DETAIL,
     TABLE_PRODUCT_DETAIL_COLUMNS,
-    TABLE_REVIEW,
-    TABLE_REVIEW_COLUMNS,
 )
 
 # Get Product List Page
@@ -83,7 +81,6 @@ prod_last_page = prod_list_json["paging"]["last_page"] + 1
 
 df_products = pd.DataFrame(columns=TABLE_PRODUCT_COLUMNS)
 df_product_details = pd.DataFrame(columns=TABLE_PRODUCT_DETAIL_COLUMNS)
-df_reviews = pd.DataFrame(columns=TABLE_REVIEW_COLUMNS)
 
 for prod_page in range(1, prod_last_page):
     print(f"Crawling Product Page: {URL_PRODUCT_PAGE.format(prod_page)}")
@@ -162,71 +159,5 @@ for prod_page in range(1, prod_last_page):
             print(e)
             continue
 
-    for seller in sellers:
-        seller_id = seller["id"]
-
-        review_driver, review_soup = create_driver(
-            URL_REVIEW.format(1, prod_id, seller_id)
-        )
-
-        review_data = pre_tag_to_json(review_soup)
-        review_total = review_data["paging"]["total"]
-        review_last_page = pre_tag_to_json(review_soup)["paging"]["last_page"] + 1
-
-        review_db_row = {}
-
-        if review_total > 0:
-            count_reviews = {}
-            for review_page in range(1, review_last_page):
-                print(
-                    f"Crawling seller_id {seller_id} - page {review_page}, product_id {prod_id}"
-                )
-                review_driver, review_soup = create_driver(
-                    URL_REVIEW.format(review_page, prod_id, seller_id)
-                )
-                reviews = pre_tag_to_json(review_soup)["data"]
-
-                for index, review in enumerate(reviews):
-                    child_id = review["spid"]
-                    rating = review["rating"]
-
-                    if count_reviews.get(child_id) is None:
-                        count_reviews[child_id] = {
-                            "rating_1": 0,
-                            "rating_2": 0,
-                            "rating_3": 0,
-                            "rating_4": 0,
-                            "rating_5": 0,
-                        }
-
-                    if rating == 1:
-                        count_reviews[child_id]["rating_1"] += 1
-                    if rating == 2:
-                        count_reviews[child_id]["rating_2"] += 1
-                    if rating == 3:
-                        count_reviews[child_id]["rating_3"] += 1
-                    if rating == 4:
-                        count_reviews[child_id]["rating_4"] += 1
-                    if rating == 5:
-                        count_reviews[child_id]["rating_5"] += 1
-
-                review_db_row["product_id"] = [prod_id]
-                review_db_row["seller_id"] = [seller_id]
-
-            for key in count_reviews:
-                count_review = count_reviews[key]
-                review_db_row["child_id"] = [key]
-                review_db_row["rating_1"] = [count_review["rating_1"]]
-                review_db_row["rating_2"] = [count_review["rating_2"]]
-                review_db_row["rating_3"] = [count_review["rating_3"]]
-                review_db_row["rating_4"] = [count_review["rating_4"]]
-                review_db_row["rating_5"] = [count_review["rating_5"]]
-
-                df_review_db_row = pd.DataFrame(review_db_row)
-                df_reviews = pd.concat(
-                    [df_reviews, df_review_db_row], ignore_index=True
-                )
-
 create_csv_file("products.csv", df_products)
 create_csv_file("product_details.csv", df_product_details)
-create_csv_file("product_reviews.csv", df_reviews)

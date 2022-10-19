@@ -1,0 +1,5 @@
+DB_HOST = "arjuna.db.elephantsql.com"
+DB_PORT = "5432"
+DB_NAME = "fgibkuls"
+DB_USER = "fgibkuls"
+DB_PASS = "xOfEt9NcdAdsGmAQjLsQvC4F9wJC0Y9O"

@@ -13,8 +13,11 @@ TABLE_PRODUCT = {
     "brand_name": "brand_name",
     "name": "name",
     "model": "item_model_number",
-    "url_key": "url_key",
+    "url": "short_url",
     "price": "original_price",
+    "is_genuine": "",
+    "is_second_hand": "",
+    "is_imported_goods": "",
     # "quantity_store": "quantity_store",
     "quantity_sold": "all_time_quantity_sold",
     "create_at": "day_ago_created",
@@ -42,6 +45,7 @@ TABLE_PRODUCT = {
     "display_type": "display_type",
     "display_resolution": "resolution",
     "network_4g": "ho_tro_4g",
+    "network_5g": "",
     "accessories": "included_accessories",
     "headphone_jack": "jack_headphone",
     "sim_slot": "khe_sim",
@@ -51,6 +55,7 @@ TABLE_PRODUCT = {
     "recording": "quay_phim",
     "wifi": "wifi",
     "made_in": "origin",
+    "configurable_products": "configurable_products",
 }
 TABLE_PRODUCT_COLUMNS = [key for key in TABLE_PRODUCT]
 

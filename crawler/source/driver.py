@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import requests
 
 from bs4 import BeautifulSoup as BS
 
@@ -28,8 +29,6 @@ def create_driver(url):
     options.add_experimental_option("excludeSwitches", ["enable-logging"])
     options.add_experimental_option("useAutomationExtension", False)
     options.add_argument("--headless")
-    options.set_capability("x-source", "local")
-
     driver = webdriver.Chrome(service=service, options=options)
 
     driver.get(url)
@@ -41,47 +40,12 @@ def create_driver(url):
     return driver, soup
 
 
-def product_crawl(url):
-    driver, page = create_driver(url)
+def create_driver_request(url):
+    headers = {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+        "x-source": "local",
+    }
 
-    products = pre_tag_to_json(page)["data"]
+    response = requests.request("GET", url, headers=headers)
 
-    return products
-
-
-def product_crawl2(url):
-    driver, page = create_driver(url)
-
-    products = pre_tag_to_json(page)["data"]
-
-    total_products = len(products)
-
-    for i in range(total_products):
-        product = products[0]
-        # seller_row = []
-        # product_row = []
-        # product_detail_row = []
-
-        # json_dump(product)
-
-        brand_row = dict((key, product[BRANDS[key]]) for key in BRANDS)
-
-        url_product = f"{URL_PRODUCT}/{product['id']}"
-        driver_product, page_product = create_driver(url_product)
-
-        product_page_data = pre_tag_to_json(page_product)
-
-        product_1 = dict((key, product[BRANDS[key]]) for key in PRODUCTS)
-
-        print(product_page_data["master_id"])
-
-        driver_product.close()
-        # product_row = dict((key, product[PRODUCTS[key]]) for key in PRODUCTS)
-
-        # print(brand_row)
-        break
-
-    # Close
-    driver.close()
-
-    return brand_row
+    return response.json()

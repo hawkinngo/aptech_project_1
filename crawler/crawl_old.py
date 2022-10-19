@@ -1,94 +1,134 @@
 import json
+import pandas as pd
 
-from source.driver import create_driver, product_crawl
+from source.driver import create_driver_request, create_driver
+from source.utils import json_dump, df_read_csv, create_csv_file, pre_tag_to_json
 from source.constant import (
-    URL_PRODUCT_PAGES,
+    URL_PRODUCT_BY_SELLER,
     URL_PRODUCT_DETAIL,
-    URL_SELLER,
-    URL_REVIEW,
+    URL_PRODUCT_CHILD_BY_SELLER,
 )
-from source.utils import pre_tag_to_json, get_last_page, create_json_file, json_dump
+from source.tables import TABLE_PRODUCT
 
-# Define Empty List
-total_products = []
-total_product_details = []
-total_product_sellers = []
-total_reviews = []
+products_csv = "output/csv/products.csv"
+product_details_csv = "output/csv/product_details.csv"
+sellers_csv = "output/csv/sellers.csv"
+brands_csv = "output/csv/brands.csv"
+products = pd.read_csv(products_csv).to_dict("records")
+sellers = pd.read_csv(sellers_csv).to_dict("records")
+brands = pd.read_csv(brands_csv).to_dict("records")
 
-# Get Total Products
-url_product_page = URL_PRODUCT_PAGES.format(1)
-print(f"Crawling Product Pages: {url_product_page}")
-driver_product_page, product_pages_soup = create_driver(url_product_page)
+df_brands = df_read_csv(brands_csv)
+df_products = df_read_csv(products_csv)
+df_product_details = df_read_csv(product_details_csv)
 
-product_pages_json = pre_tag_to_json(product_pages_soup)
-total_products += product_pages_json["data"]
+new_products = []
+new_brands = []
+new_brands_dict = []
 
-product_last_page = get_last_page(product_pages_json) + 1
+for seller in sellers:
+    seller_id = seller["id"]
 
-for page in range(2, product_last_page):
-    url_product_page = URL_PRODUCT_PAGES.format(page)
-    print(f"Crawling Product Pages: {url_product_page}")
+    products_by_seller = create_driver_request(URL_PRODUCT_BY_SELLER.format(seller_id))
+    products_per_page = products_by_seller["data"]
+    total_products_per_page = len(products_per_page)
+    total_products = products_by_seller["page"]["total"]
 
-    driver_product_page, product_pages_soup = create_driver(url_product_page)
-    product_pages_json = pre_tag_to_json(product_pages_soup)
+    for ppp in products_per_page:
+        product_exists = False
+        brand_exists = False
 
-    total_products += product_pages_json["data"]
+        for product in products:
+            if product["id"] == ppp["id"]:
+                product_exists = True
 
-create_json_file("products.json", total_products)
+        for brand in brands:
+            if ppp["brand_id"] == brand["id"]:
+                brand_exists = True
 
+        if product_exists == False and ppp["id"] not in new_products:
+            new_products.append(ppp["id"])
 
-# Get Product Details
-for product in total_products:
-    product_id = product["id"]
-    url_product_detail = URL_PRODUCT_DETAIL.format(product_id)
+        if brand_exists == False and ppp["brand_id"] not in new_brands:
+            new_brands.append(ppp["brand_id"])
+            df_brand_new = pd.DataFrame(
+                [
+                    {"id": ppp["brand_id"], "name": ppp["brand_name"]},
+                ]
+            )
+            df_brands = pd.concat([df_brands, df_brand_new], ignore_index=True)
+            # new_brands_dict.append({"id": ppp["brand_id"], "name": ppp["brand_name"]})
 
-    print(f"Crawling Product Detail: {url_product_detail}")
-    driver_product_detail, product_detail_soup = create_driver(url_product_detail)
-    product_detail_json = pre_tag_to_json(product_detail_soup)
+for index, new_product in enumerate(new_products):
+    product_index = index + 1
+    prod_db_row = {}
+    prod_detail = create_driver_request(URL_PRODUCT_DETAIL.format(new_product))
 
-    total_product_details.append(product_detail_json)
-
-create_json_file("product_details.json", total_product_details)
-
-# Get Sellers
-for product_detail in total_product_details:
     try:
-        product_id = product_detail["id"]
 
-        configurable_products = product_detail["configurable_products"]
-        for cp in configurable_products:
-            cp_id = cp["id"]
-            url_seller = URL_SELLER.format(cp_id)
-            print(f"Crawling Sellers: {url_seller}")
+        print(f"Crawling: {new_product} - {product_index}/{len(new_products)}")
+        prod_detail_atts = [
+            pd["attributes"]
+            for pd in prod_detail["specifications"]
+            if pd["name"] == "Content"
+        ][0]
 
-            driver_product_sellers, product_sellers_soup = create_driver(url_seller)
-            product_sellers = pre_tag_to_json(product_sellers_soup)["all_sellers"]
+        for key in TABLE_PRODUCT:
+            prod_key = TABLE_PRODUCT[key]
 
-            total_product_sellers += product_sellers
+            # if prod.get(prod_key):
+            #     prod_value = prod[prod_key]
+            #     prod_db_row[key] = [prod_value]
 
-            for product_seller in product_sellers:
-                seller_id = product_seller["seller"]["id"]
-                url_review = URL_REVIEW.format(1, product_id, cp_id, seller_id)
-                print(f"Crawling Reviews: {url_review}")
-                driver_reviews, reviews_soup = create_driver(url_review)
-                reviews_json = pre_tag_to_json(reviews_soup)
-                total_reviews += reviews_json["data"]
-                review_last_page = get_last_page(reviews_json) + 1
+            if prod_detail.get(prod_key):
+                prod_value = prod_detail[prod_key]
+                prod_db_row[key] = [prod_value]
 
-                if review_last_page > 2:
-                    for page in range(2, review_last_page):
-                        url_review = URL_REVIEW.format(
-                            page, product_id, cp_id, seller_id
-                        )
-                        print(f"Crawling Reviews: {url_review}")
-                        driver_reviews, reviews_soup = create_driver(url_review)
-                        reviews_json = pre_tag_to_json(reviews_soup)
+            for prod_detail_att in prod_detail_atts:
+                if prod_detail_att["code"] == prod_key:
+                    prod_db_row[key] = [prod_detail_att["value"]]
 
-                        total_reviews += reviews_json["data"]
+            if prod_db_row.get(key) is None:
+                prod_db_row[key] = "N/A"
 
-    except Exception as exp:
-        print(f"Error {exp}")
-        continue
+        df_prod_db_row = pd.DataFrame(prod_db_row)
+        df_products = pd.concat([df_products, df_prod_db_row], ignore_index=True)
 
-create_json_file("product_sellers.json", total_product_sellers)
-create_json_file("reviews.json", total_reviews)
+        prod_childs = prod_detail["configurable_products"]
+        prod_child_db_row = {}
+
+        for prod_child in prod_childs:
+            prod_child_id = prod_child["id"]
+
+            # Product detail
+            print(f"Crawling Product Child: {prod_child_id}")
+            prod_child_driver, prod_child_soup = create_driver(
+                URL_PRODUCT_CHILD_BY_SELLER.format(prod_child_id)
+            )
+
+            prod_child_data = pre_tag_to_json(prod_child_soup)
+            prod_child_by_sellers = prod_child_data["all_sellers"]
+
+            for pd_by_seller in prod_child_by_sellers:
+                prod_child_db_row["id"] = [prod_child_id]
+                prod_child_db_row["product_id"] = [new_product]
+                prod_child_db_row["color"] = [prod_child["option1"]]
+                prod_child_db_row["seller_id"] = [pd_by_seller["seller"]["id"]]
+                prod_child_db_row["store_id"] = [pd_by_seller["seller"]["store_id"]]
+                prod_child_db_row["price"] = [pd_by_seller["price"]["value"]]
+
+                df_prod_child_db_row = pd.DataFrame(prod_child_db_row)
+                df_product_details = pd.concat(
+                    [df_product_details, df_prod_child_db_row], ignore_index=True
+                )
+
+    except Exception as e:
+        print(e)
+
+    break
+
+print(df_products)
+
+# create_csv_file("brands_new.csv", df_brands)
+# create_csv_file("products_new.csv", df_products)
+# create_csv_file("product_details_new.csv", df_product_details)

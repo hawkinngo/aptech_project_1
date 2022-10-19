@@ -16,6 +16,7 @@ from source.utils import (
     json_dump,
     create_csv_file,
     create_csv_file_filter,
+    df_read_csv,
 )
 
 from source.tables import (
@@ -35,9 +36,10 @@ products = pd.read_csv(products_csv).to_dict("records")
 sellers = pd.read_csv(sellers_csv).to_dict("records")
 reviews = pd.read_csv(reviews_csv).to_dict("records")
 
-df_reviews = pd.read_csv(reviews_csv)
-first_column = df_reviews.columns[0]
-df_reviews = df_reviews.drop([first_column], axis=1)
+df_reviews = df_read_csv(reviews_csv)
+# df_reviews = pd.read_csv(reviews_csv)
+# first_column = df_reviews.columns[0]
+# df_reviews = df_reviews.drop([first_column], axis=1)
 
 for prod_index, product in enumerate(products):
     prod_id = product["id"]
