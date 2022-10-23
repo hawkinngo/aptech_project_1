@@ -40,9 +40,7 @@ def create_json_file(file_name, data, timestamp=True):
 def create_csv_file(
     file_name, df, convert_to_number=False, timestamp=False, is_clean=False
 ):
-    df_path = create_file(
-        "csv2" if is_clean is False else "clean", file_name, timestamp
-    )
+    df_path = create_file("csv" if is_clean is False else "clean", file_name, timestamp)
     # df_path = create_file("csv", file_name, False)
     df.to_csv(df_path)
 
@@ -101,7 +99,8 @@ def df_read_csv(csv_file_path):
         first_column = df_csv.columns[0]
         df_csv = df_csv.drop([first_column], axis=1)
         return df_csv
-    except:
+    except Exception as exp:
+        print(exp)
         return False
 
 

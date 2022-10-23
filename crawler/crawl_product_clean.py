@@ -8,6 +8,8 @@ from source.constant import (
     PRODUCTS_FILTER_FILE,
     STORAGES_FILE,
     RAMS_FILE,
+    RAM_REPLACE,
+    STORAGE_REPLACE,
     COLORS_FILE,
     PRODUCTS_DETAIL_LV1,
     FILTER_CLEAN,
@@ -101,6 +103,44 @@ for product_raw in products_raw:
                 product_raw["name"] = product_raw["name"].replace(ram["name"], "")
                 break
 
+    if (
+        isinstance(product_raw["ram"], float) is False
+        and isinstance(product_raw["storage_capacity"], float) is False
+    ):
+        try:
+            if int(product_raw["ram"].replace("GB", "")) > int(
+                product_raw["storage_capacity"].replace("GB", "")
+            ):
+                temp = product_raw["ram"]
+                product_raw["ram"] = product_raw["storage_capacity"]
+                product_raw["storage_capacity"] = temp
+        except:
+            pass
+
+    if isinstance(product_raw["ram"], float) is False:
+        # print(product_raw["battery_type"])
+        for key in RAM_REPLACE:
+            product_raw["ram"] = product_raw["ram"].replace(key, RAM_REPLACE[key])
+
+        product_raw["ram"] = product_raw["ram"].strip()
+        if "GB" not in product_raw["ram"]:
+            product_raw["ram"] = f"{product_raw['ram']}GB"
+        print(product_raw["ram"], type(product_raw["ram"]))
+
+    if isinstance(product_raw["storage_capacity"], float) is False:
+        # print(product_raw["battery_type"])
+        for key in STORAGE_REPLACE:
+            product_raw["storage_capacity"] = product_raw["storage_capacity"].replace(
+                key, STORAGE_REPLACE[key]
+            )
+
+        product_raw["storage_capacity"] = product_raw["storage_capacity"].strip()
+        if "GB" not in product_raw["storage_capacity"]:
+            product_raw["storage_capacity"] = f"{product_raw['storage_capacity']}GB"
+        print(product_raw["storage_capacity"], type(product_raw["storage_capacity"]))
+
+    if product_raw["storage_capacity"] == "-GB":
+        product_raw["storage_capacity"] = "NaN"
     product_raw["name"] = filter_spam_name(product_name)
     products_filter.append(product_raw)
 
@@ -123,7 +163,13 @@ for product_raw in products_raw:
 df_products_filter = pd.DataFrame(products_filter)
 create_csv_file(PRODUCTS_FILTER_FILE, df_products_filter)
 
-products_clean = {"name": [], "brand_id": [], "original_price": []}
+products_clean = {
+    "name": [],
+    "brand_id": [],
+    "original_price": [],
+    "ram": [],
+    "storage_capacity": [],
+}
 
 for product in products_filter:
     # product_name = product["name"]
@@ -150,6 +196,8 @@ for product in products_filter:
         products_clean["name"].append(product_name_clean)
         products_clean["brand_id"].append(product["brand_id"])
         products_clean["original_price"].append(product["price"])
+        products_clean["ram"].append(product["ram"])
+        products_clean["storage_capacity"].append(product["storage_capacity"])
 
 
 # CLEAN DATA
@@ -166,6 +214,7 @@ df_product_name_cleans = (
     pd.DataFrame(products_clean).sort_values(by="name").reset_index(drop=True)
 )
 df_product_name_cleans.index += 1
+pd.set_option("display.max_rows", None)
 print(df_product_name_cleans)
 create_csv_file(PRODUCTS_FILE, df_product_name_cleans, is_clean=True)
 

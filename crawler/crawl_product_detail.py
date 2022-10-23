@@ -145,7 +145,11 @@ for i in product_matches:
 
                 for seller in sellers:
                     product_detail_row["seller"] = seller["seller"]["id"]
-                    product_detail_row["sell_price"] = seller["price"]["value"]
+                    product_detail_row["sell_price"] = (
+                        seller["price"]["value"]
+                        if product_row["price"] >= seller["price"]["value"]
+                        else product_row["price"]
+                    )
                     product_details.append(product_detail_row)
         else:
             product_sub_id = product_row["url"].split("=")[1]

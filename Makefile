@@ -16,3 +16,6 @@ review:
 
 raw:
 	cd crawler && py crawl_product_raw.py
+
+test:
+	cd crawler && py test.py

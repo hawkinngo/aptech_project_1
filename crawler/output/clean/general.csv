@@ -1,0 +1,929 @@
+,brand_name,name,seller,color,is_genuine,is_used,is_imported_goods,ram,storage_capacity,original_price,sell_price,rating_1,rating_2,rating_3,rating_4,rating_5
+0,Apple,Apple Iphone 11,Tiki Trading,Đen,False,False,False,4GB,64GB,12990000,12490000,13.0,1.0,1.0,22.0,268.0
+1,Apple,Apple Iphone 11,Tiki Trading,Trắng,False,False,False,4GB,64GB,12990000,11110000,7.0,5.0,4.0,27.0,346.0
+2,Apple,Apple Iphone 11,Tiki Trading,Đen,False,False,False,4GB,64GB,12990000,10890000,7.0,1.0,7.0,23.0,404.0
+3,Apple,Apple Iphone 11,Tiki Trading,Trắng,False,False,False,4GB,64GB,12990000,12490000,5.0,0.0,2.0,15.0,210.0
+4,Apple,Apple Iphone 11,Tiki Trading,Xanh,False,False,False,4GB,64GB,12990000,10890000,6.0,2.0,4.0,29.0,404.0
+5,Apple,Apple Iphone 12,Tiki Trading,Trắng,False,False,False,4GB,64GB,16990000,15290000,1.0,0.0,0.0,8.0,123.0
+6,Apple,Apple Iphone 12,Tiki Trading,Đen,False,False,False,4GB,64GB,16990000,15290000,3.0,0.0,2.0,10.0,166.0
+7,Apple,Apple Iphone 12,Tiki Trading,Xanh,False,False,False,4GB,64GB,16990000,15290000,2.0,0.0,2.0,4.0,115.0
+8,Apple,Apple Iphone 12,Tiki Trading,Xanh,False,False,False,4GB,64GB,16990000,15700000,2.0,0.0,0.0,5.0,98.0
+9,Apple,Apple Iphone 12,Tiki Trading,Tím,False,False,False,4GB,64GB,16990000,16150000,0.0,0.0,0.0,3.0,39.0
+10,Apple,Apple Iphone 12,Tiki Trading,Trắng,False,False,False,4GB,64GB,16990000,16990000,2.0,0.0,1.0,4.0,80.0
+11,Apple,Apple Iphone 12,Tiki Trading,Đen,False,False,False,4GB,64GB,16990000,16990000,2.0,2.0,1.0,8.0,139.0
+12,Apple,Apple Iphone 12,Tiki Trading,Xanh,False,False,False,4GB,64GB,16990000,16990000,1.0,1.0,1.0,7.0,90.0
+13,Apple,Apple Iphone 13,Tiki Trading,Trắng,False,False,False,,,24990000,18990000,1.0,2.0,2.0,7.0,165.0
+14,Apple,Apple Iphone 13,Tiki Trading,Hồng,False,False,False,,,24990000,21580000,1.0,2.0,2.0,5.0,111.0
+15,Apple,Apple Iphone 13,Tiki Trading,Xanh,False,False,False,,,24990000,18990000,4.0,1.0,0.0,7.0,192.0
+16,Apple,Apple Iphone 13,Tiki Trading,Xanh,False,False,False,,,24990000,18990000,2.0,1.0,0.0,4.0,101.0
+17,Apple,Apple Iphone 13,Tiki Trading,Xanh,False,False,False,,,24990000,21490000,0.0,0.0,2.0,5.0,120.0
+18,Apple,Apple Iphone 13,Tiki Trading,Đen,False,False,False,,,24990000,19060000,3.0,3.0,2.0,7.0,143.0
+19,Apple,Apple Iphone 13,Tiki Trading,Hồng,False,False,False,,,24990000,19140000,4.0,1.0,0.0,6.0,254.0
+20,Apple,Apple Iphone 13 Pro,Tiki Trading,Xanh,False,False,False,,,29990000,24250000,3.0,1.0,1.0,8.0,182.0
+21,Apple,Apple Iphone 13 Pro,Tiki Trading,Xanh,False,False,False,,,29990000,23990000,0.0,0.0,1.0,2.0,48.0
+22,Apple,Apple Iphone 13 Pro Max,Tiki Trading,Xanh,False,False,False,6GB,128GB,33990000,29490000,2.0,0.0,2.0,7.0,209.0
+23,Apple,Apple Iphone 13 Pro Max,Tiki Trading,Xám,False,False,False,6GB,128GB,33990000,29490000,2.0,0.0,0.0,2.0,120.0
+24,Apple,Apple Iphone 13 Pro Max,Tiki Trading,Vàng,False,False,False,6GB,128GB,33990000,29490000,0.0,0.0,1.0,4.0,133.0
+25,Apple,Apple Iphone 13 Pro Max,Tiki Trading,Xanh,False,False,False,6GB,128GB,33990000,26990000,1.0,0.0,2.0,3.0,86.0
+26,Apple,Apple Iphone 13 Pro Max,Tiki Trading,Vàng,False,False,False,6GB,128GB,33990000,26990000,2.0,0.0,0.0,8.0,200.0
+27,Apple,Apple Iphone 13 Pro Max,Tiki Trading,Xanh,False,False,False,6GB,128GB,33990000,29490000,0.0,0.0,0.0,2.0,35.0
+28,Apple,Apple Iphone 13 Pro Max,Tiki Trading,Xanh,False,False,False,6GB,128GB,33990000,27290000,3.0,1.0,3.0,8.0,299.0
+29,Apple,Apple Iphone SE 2022,Tiki Trading,Trắng,False,False,False,3GB,64GB,12990000,12780000,0.0,0.0,0.0,0.0,7.0
+30,Apple,Apple Iphone SE 2022,Tiki Trading,Đỏ,False,False,False,3GB,64GB,12990000,11330000,0.0,0.0,0.0,1.0,5.0
+31,Nokia,Nokia C20,Tiki Trading,Xanh,True,False,False,6GB,16GB,2290000,1790000,1.0,1.0,0.0,1.0,12.0
+32,Nokia,Nokia C20,Tiki Trading,Xanh,True,False,False,6GB,16GB,2290000,1790000,1.0,1.0,0.0,1.0,12.0
+33,Nokia,Nokia C20,Tiki Trading,Xanh,True,False,False,6GB,16GB,2290000,1790000,1.0,1.0,0.0,1.0,12.0
+34,Nokia,Nokia C30,Tiki Trading,Xanh,True,False,False,2GB,32GB,1990000,1840000,2.0,1.0,0.0,12.0,54.0
+35,Nokia,Nokia G11 Plus,Tiki Trading,Xanh,True,False,False,3GB,32GB/64GB,3390000,2990000,0.0,0.0,0.0,0.0,0.0
+36,OnePlus,Oneplus 10T 5G,Tiki Trading,Đen,True,False,False,,,15990000,14990000,0.0,1.0,0.0,0.0,2.0
+37,OnePlus,Oneplus 10T 5G,Tiki Trading,Xanh,True,False,False,,,15990000,15990000,1.0,0.0,0.0,0.0,4.0
+38,OPPO,Oppo A15S,Tiki Trading,Đen,True,False,False,4GB,64GB,4190000,3660000,0.0,0.0,0.0,12.0,95.0
+39,OPPO,Oppo A15S,Tiki Trading,Xanh,True,False,False,4GB,64GB,4190000,3780000,0.0,0.0,0.0,6.0,75.0
+40,OPPO,Oppo A16,Tiki Trading,Xanh,True,False,False,4GB,64GB,3990000,3090000,0.0,0.0,0.0,0.0,10.0
+41,OPPO,Oppo A16,Tiki Trading,Bạc,True,False,False,4GB,64GB,3990000,3090000,0.0,0.0,0.0,0.0,3.0
+42,OPPO,Oppo A16,Tiki Trading,Bạc,True,False,False,4GB,64GB,3990000,2920000,0.0,0.0,0.0,2.0,9.0
+43,OPPO,Oppo A16,Tiki Trading,Đen,True,False,False,4GB,64GB,3990000,2920000,0.0,0.0,0.0,0.0,7.0
+44,OPPO,Oppo A16K,Tiki Trading,Đen,True,False,False,4GB,64GB,3790000,3290000,1.0,0.0,0.0,0.0,46.0
+45,OPPO,Oppo A16K,Tiki Trading,Trắng,True,False,False,4GB,64GB,3790000,3290000,0.0,0.0,0.0,5.0,30.0
+46,OPPO,Oppo A55,Tiki Trading,Xanh,True,False,False,4GB,64GB,4990000,3800000,2.0,0.0,0.0,1.0,32.0
+47,OPPO,Oppo A57,Tiki Trading,Đen,True,False,False,4GB,64GB,4490000,3980000,0.0,0.0,0.0,0.0,1.0
+48,OPPO,Oppo A57,Tiki Trading,Xanh,True,False,False,4GB,64GB,4490000,3980000,0.0,0.0,0.0,1.0,7.0
+49,OPPO,Oppo A74 5G,Tiki Trading,Bạc,True,False,False,6GB,,7990000,5010000,0.0,0.0,0.0,0.0,0.0
+50,OPPO,Oppo A74 5G,Tiki Trading,Đen,True,False,False,6GB,,7990000,5490000,0.0,0.0,0.0,0.0,0.0
+51,OPPO,Oppo A94,Tiki Trading,Bạc,True,False,False,8GB,128GB,7690000,5090000,0.0,0.0,0.0,1.0,6.0
+52,OPPO,Oppo A94,Tiki Trading,Đen,True,False,False,8GB,128GB,7690000,5490000,0.0,0.0,0.0,5.0,62.0
+53,OPPO,Oppo A96,Tiki Trading,Hồng,True,False,False,8GB,8GB,6990000,6160000,0.0,0.0,0.0,0.0,1.0
+54,OPPO,Oppo Reno 5G,Tiki Trading,Đen,True,False,False,8GB,128GB,8490000,7510000,0.0,0.0,0.0,0.0,7.0
+55,OPPO,Oppo Reno 5G,Tiki Trading,Bạc,True,False,False,8GB,128GB,8490000,7750000,0.0,0.0,0.0,2.0,13.0
+56,OPPO,Oppo Reno 7 4G,Tiki Trading,Đen,True,False,False,8GB,128GB,8990000,7910000,0.0,0.0,0.0,2.0,6.0
+57,OPPO,Oppo Reno 7 4G,Tiki Trading,Cam,True,False,False,8GB,128GB,8990000,7910000,0.0,0.0,0.0,1.0,12.0
+58,OPPO,Oppo Reno 7 5G,Tiki Trading,Đen,True,False,False,8GB,256GB,12990000,11430000,0.0,0.0,0.0,0.0,3.0
+59,OPPO,Oppo Reno8 4G,Tiki Trading,Vàng,True,False,False,8GB,256GB,8990000,7990000,0.0,0.0,0.0,1.0,2.0
+60,OPPO,Oppo Reno8 4G,Tiki Trading,Đen,True,False,False,8GB,256GB,8990000,7990000,0.0,0.0,0.0,0.0,0.0
+61,OPPO,Oppo Reno8 5G,Tiki Trading,Đen,True,False,False,8GB,256GB,13990000,13030000,0.0,0.0,0.0,0.0,1.0
+62,OPPO,Oppo Reno8 5G,Tiki Trading,Vàng,True,False,False,8GB,256GB,13990000,13030000,0.0,0.0,0.0,0.0,1.0
+63,OPPO,Oppo Reno8 Z 5G,Tiki Trading,Đen,True,False,False,8GB,256GB,10490000,9990000,0.0,0.0,0.0,0.0,1.0
+64,OPPO,Oppo Reno8 Z 5G,Tiki Trading,Vàng,True,False,False,8GB,256GB,10490000,9990000,0.0,0.0,0.0,0.0,2.0
+65,Realme,Realme C21Y,Tiki Trading,Đen,True,False,False,4GB,,3890000,2790000,0.0,0.0,0.0,0.0,7.0
+66,Realme,Realme C21Y,Tiki Trading,Xanh,True,False,False,4GB,,3890000,2790000,0.0,0.0,0.0,1.0,7.0
+67,Samsung,Samsung Galaxy A03,Tiki Trading,Đen,True,False,False,3GB,32GB,2990000,2590000,1.0,0.0,1.0,0.0,17.0
+68,Samsung,Samsung Galaxy A03,Tiki Trading,Đen,True,False,False,3GB,32GB,2990000,2590000,1.0,0.0,1.0,0.0,17.0
+69,Samsung,Samsung Galaxy A03,Tiki Trading,Xanh,True,False,False,3GB,32GB,2990000,2590000,0.0,1.0,0.0,0.0,11.0
+70,Samsung,Samsung Galaxy A03,Tiki Trading,Xanh,True,False,False,3GB,32GB,2990000,2590000,0.0,1.0,0.0,0.0,11.0
+71,Samsung,Samsung Galaxy A03,Tiki Trading,Đỏ,True,False,False,3GB,32GB,2990000,2590000,0.0,0.0,0.0,0.0,1.0
+72,Samsung,Samsung Galaxy A04S,Tiki Trading,Xanh,True,False,False,4GB,64GB,3990000,3590000,0.0,0.0,0.0,1.0,0.0
+73,Samsung,Samsung Galaxy A04S,Tiki Trading,,True,False,False,4GB,64GB,3990000,3590000,0.0,0.0,0.0,0.0,0.0
+74,Samsung,Samsung Galaxy A04S,Tiki Trading,Đen,True,False,False,4GB,64GB,3990000,3590000,0.0,0.0,0.0,0.0,0.0
+75,Samsung,Samsung Galaxy A13,Tiki Trading,Đen,True,False,False,8GB,128GB,4990000,3990000,0.0,0.0,0.0,0.0,25.0
+76,Samsung,Samsung Galaxy A13,Tiki Trading,Xanh,True,False,False,8GB,128GB,4990000,3990000,1.0,0.0,1.0,1.0,18.0
+77,Samsung,Samsung Galaxy A13,Tiki Trading,Cam,True,False,False,8GB,128GB,4990000,3990000,1.0,0.0,1.0,3.0,26.0
+78,Samsung,Samsung Galaxy A13,Tiki Trading,Xanh,True,False,False,8GB,128GB,4990000,4150000,0.0,0.0,0.0,0.0,5.0
+79,Samsung,Samsung Galaxy A13,Tiki Trading,Đen,True,False,False,8GB,128GB,4990000,4190000,1.0,0.0,0.0,0.0,3.0
+80,Samsung,Samsung Galaxy A23,Tiki Trading,Cam,True,False,False,8GB,128GB,5690000,5350000,0.0,0.0,0.0,0.0,0.0
+81,Samsung,Samsung Galaxy A32,Tiki Trading,,True,False,False,,128GB,5290000,5030000,0.0,0.0,0.0,0.0,0.0
+82,Samsung,Samsung Galaxy A32,Tiki Trading,,True,False,False,,128GB,5290000,5290000,0.0,0.0,0.0,0.0,5.0
+83,Samsung,Samsung Galaxy A32,Tiki Trading,,True,False,False,,128GB,5290000,5290000,0.0,0.0,0.0,0.0,5.0
+84,Samsung,Samsung Galaxy A32,Tiki Trading,,True,False,False,,128GB,5290000,5290000,0.0,0.0,0.0,0.0,5.0
+85,Samsung,Samsung Galaxy A32,Tiki Trading,,True,False,False,,128GB,5290000,5290000,0.0,2.0,0.0,11.0,51.0
+86,Samsung,Samsung Galaxy A32,Tiki Trading,,True,False,False,,128GB,5290000,5290000,0.0,2.0,0.0,11.0,51.0
+87,Samsung,Samsung Galaxy A32,Tiki Trading,,True,False,False,,128GB,5290000,5290000,0.0,2.0,0.0,11.0,51.0
+88,Samsung,Samsung Galaxy A53 5G,Tiki Trading,Đen,True,False,False,8GB,128GB,9990000,7990000,1.0,0.0,0.0,1.0,19.0
+89,Samsung,Samsung Galaxy A53 5G,Tiki Trading,Xanh,True,False,False,8GB,128GB,9990000,7990000,1.0,0.0,0.0,0.0,26.0
+90,Samsung,Samsung Galaxy A53 5G,Tiki Trading,Trắng,True,False,False,8GB,128GB,9990000,9400000,0.0,0.0,0.0,3.0,20.0
+91,Samsung,Samsung Galaxy S20 FE,Tiki Trading,Xanh,True,True,False,8GB,256GB,13990000,8990000,0.0,1.0,0.0,0.0,17.0
+92,Samsung,Samsung Galaxy S20 FE,Tiki Trading,Xanh,True,True,False,8GB,256GB,13990000,8990000,0.0,0.0,1.0,0.0,12.0
+93,Samsung,Samsung Galaxy S22 5G,Tiki Trading,Đen,True,False,False,8GB,256GB,23490000,22090000,1.0,0.0,1.0,1.0,3.0
+94,Samsung,Samsung Galaxy S22 5G,Tiki Trading,Xanh,True,False,False,8GB,256GB,23490000,15490000,0.0,0.0,0.0,2.0,11.0
+95,Samsung,Samsung Galaxy S22 5G,Tiki Trading,Trắng,True,False,False,8GB,256GB,23490000,22090000,1.0,0.0,0.0,1.0,3.0
+96,Samsung,Samsung Galaxy S22 Plus 5G,Tiki Trading,Trắng,True,False,False,8GB,256GB,27490000,18790000,0.0,0.0,0.0,0.0,0.0
+97,Samsung,Samsung Galaxy S22 Plus 5G,Tiki Trading,Hồng,True,False,False,8GB,256GB,27490000,18790000,0.0,0.0,0.0,0.0,2.0
+98,Samsung,Samsung Galaxy S22 Plus 5G,Tiki Trading,Hồng,True,False,False,8GB,256GB,27490000,18390000,0.0,0.0,0.0,0.0,5.0
+99,Samsung,Samsung Galaxy S22 Ultra,Tiki Trading,Xanh,True,True,False,2GB,512GB,34990000,27990000,0.0,0.0,0.0,0.0,1.0
+100,Samsung,Samsung Galaxy S22 Ultra 5G,Tiki Trading,Xanh,True,False,False,6GB,256GB,33990000,31960000,0.0,0.0,1.0,1.0,3.0
+101,Samsung,Samsung Galaxy S22 Ultra 5G,Tiki Trading,Đen,True,False,False,6GB,256GB,33990000,26490000,0.0,0.0,1.0,2.0,6.0
+102,Samsung,Samsung Galaxy S22 Ultra 5G,Tiki Trading,Trắng,True,False,False,6GB,256GB,33990000,26990000,0.0,0.0,0.0,0.0,1.0
+103,Samsung,Samsung Galaxy S22 Ultra 5G,Tiki Trading,Đỏ,True,False,False,6GB,256GB,33990000,34770000,0.0,0.0,0.0,0.0,3.0
+104,Samsung,Samsung Galaxy S22 Ultra 5G,Tiki Trading,Đen,True,False,False,6GB,256GB,33990000,34770000,0.0,0.0,0.0,1.0,4.0
+105,Samsung,Samsung Galaxy Z Flip4,Tiki Trading,Vàng,True,False,False,8GB,128GB,23990000,19990000,0.0,0.0,0.0,0.0,1.0
+106,Samsung,Samsung Galaxy Z Flip4,Tiki Trading,Xám,True,False,False,8GB,128GB,23990000,19990000,0.0,0.0,0.0,0.0,0.0
+107,Samsung,Samsung Galaxy Z Flip4,Tiki Trading,,True,False,False,8GB,128GB,23990000,19990000,0.0,0.0,0.0,0.0,0.0
+108,Samsung,Samsung Galaxy Z Flip4,Tiki Trading,Xanh,True,False,False,8GB,128GB,23990000,21990000,0.0,0.0,0.0,0.0,1.0
+109,Samsung,Samsung Galaxy Z Flip4,Tiki Trading,Vàng,True,False,False,8GB,128GB,23990000,21990000,0.0,0.0,0.0,0.0,0.0
+110,Samsung,Samsung Galaxy Z Flip4,Tiki Trading,Xám,True,False,False,8GB,128GB,23990000,21990000,0.0,0.0,0.0,0.0,0.0
+111,Samsung,Samsung Galaxy Z Fold4,Tiki Trading,Đen,True,False,False,2GB,512GB,44490000,39290000,0.0,0.0,0.0,0.0,0.0
+112,Samsung,Samsung Galaxy Z Fold4,Tiki Trading,Xanh,True,False,False,2GB,512GB,44490000,39290000,0.0,0.0,0.0,0.0,0.0
+113,Samsung,Samsung Galaxy Z Fold4,Tiki Trading,Đen,True,False,False,2GB,512GB,44490000,35990000,0.0,0.0,0.0,0.0,0.0
+114,Samsung,Samsung Galaxy Z Fold4,Tiki Trading,,True,False,False,2GB,512GB,44490000,35990000,0.0,0.0,0.0,0.0,1.0
+115,Samsung,Samsung Galaxy Z Fold4,Tiki Trading,Xanh,True,False,False,2GB,512GB,44490000,35990000,0.0,0.0,0.0,0.0,0.0
+116,TCL,Tcl 30+ Passat,Tiki Trading,,False,False,False,4GB,128GB,4690000,4190000,0.0,0.0,0.0,0.0,0.0
+117,TCL,Tcl 30+ Passat,Tiki Trading,,False,False,False,4GB,128GB,4690000,4190000,0.0,0.0,0.0,0.0,0.0
+118,TCL,Tcl 305 Cruze Lite,Tiki Trading,,False,False,False,2GB,32GB,2490000,2190000,0.0,0.0,0.0,0.0,0.0
+119,TCL,Tcl 305 Cruze Lite,Tiki Trading,,False,False,False,2GB,32GB,2490000,2190000,0.0,0.0,0.0,0.0,0.0
+120,TCL,Tcl 30Se Cruze Pro,Tiki Trading,,True,False,False,4GB,128GB,3890000,3490000,0.0,0.0,0.0,0.0,0.0
+121,TCL,Tcl 30Se Cruze Pro,Tiki Trading,,True,False,False,4GB,128GB,3890000,3490000,0.0,0.0,0.0,0.0,0.0
+122,TCL,Tcl 30Se Cruze Pro,Tiki Trading,,True,False,False,4GB,128GB,3890000,3490000,0.0,0.0,0.0,0.0,0.0
+123,Tecno,Tecno Spark 8C,Tiki Trading,Đen,True,False,False,3GB,64GB,2480000,2210000,1.0,1.0,0.0,1.0,5.0
+124,Tecno,Tecno Spark 8C,Tiki Trading,Đen,True,False,False,3GB,64GB,2480000,2210000,1.0,1.0,0.0,1.0,5.0
+125,Tecno,Tecno Spark 8C,Tiki Trading,Xanh,True,False,False,3GB,64GB,2480000,2210000,0.0,0.0,1.0,0.0,5.0
+126,Tecno,Tecno Spark 8C,Tiki Trading,Xanh,True,False,False,3GB,64GB,2480000,2210000,0.0,0.0,1.0,0.0,5.0
+127,Vivo,Vivo T1 5G,Tiki Trading,Xanh,True,False,False,8GB,128GB,7990000,6990000,0.0,0.0,1.0,0.0,6.0
+128,Vivo,Vivo V23 5G,Tiki Trading,Đen,True,False,False,8GB,128GB,12990000,9950000,0.0,0.0,0.0,1.0,1.0
+129,Vivo,Vivo X50,Tiki Trading,Xanh dương,True,False,False,8GB,128GB,12990000,9990000,0.0,0.0,0.0,0.0,0.0
+130,Vivo,Vivo Y33S,Tiki Trading,Đen,True,False,False,8GB,128GB,6990000,5310000,0.0,0.0,0.0,0.0,2.0
+131,Vivo,Vivo Y33S,Tiki Trading,Đen,True,False,False,8GB,128GB,6990000,5310000,0.0,0.0,0.0,0.0,2.0
+132,Xiaomi,Xiaomi 11 Lite 5G Ne,Tiki Trading,Đen,True,False,False,8GB,128GB,9490000,7750000,0.0,0.0,0.0,1.0,16.0
+133,Xiaomi,Xiaomi 11T,Tiki Trading,Xám,True,False,False,8GB,128GB,10990000,8550000,0.0,0.0,0.0,2.0,3.0
+134,Xiaomi,Xiaomi Redmi 9A,Tiki Trading,Xanh Dương,True,False,False,2GB,32GB,2490000,2040000,0.0,0.0,0.0,0.0,1.0
+135,Xiaomi,Xiaomi Redmi 9C,Tiki Trading,Cam,True,False,False,4GB,128GB,3490000,2790000,1.0,0.0,0.0,3.0,12.0
+136,Xiaomi,Xiaomi Redmi A1,Tiki Trading,Đen,True,False,False,2GB,32GB,2490000,2030000,0.0,0.0,0.0,0.0,0.0
+137,Xiaomi,Xiaomi Redmi A1,Tiki Trading,Xanh,True,False,False,2GB,32GB,2490000,2030000,0.0,0.0,0.0,0.0,1.0
+138,Xiaomi,Xiaomi Redmi Note 10S,Tiki Trading,Trắng,True,False,False,8GB,128GB,6490000,4710000,0.0,0.0,1.0,2.0,19.0
+139,Xiaomi,Xiaomi Redmi Note 10S,Tiki Trading,Xanh Dương,True,False,False,8GB,128GB,6490000,4570000,0.0,1.0,1.0,3.0,30.0
+140,Xiaomi,Xiaomi Redmi Note 11,Tiki Trading,Xanh Dương,True,False,False,8GB,128GB,6490000,4090000,0.0,0.0,1.0,1.0,28.0
+141,Itel,Itel Vision 2,CÔNG TY SMART,Đen,True,False,False,4GB,64GB,2900000,2900000,0.0,0.0,0.0,0.0,0.0
+142,Itel,Itel Vision 2,CÔNG TY SMART,,True,False,False,4GB,64GB,2900000,2900000,0.0,0.0,0.0,0.0,0.0
+143,Nokia,Nokia 110 4G,CÔNG TY SMART,Xanh,True,False,False,,,850000,800000,0.0,0.0,0.0,0.0,0.0
+144,Nokia,Nokia 110 4G,CÔNG TY SMART,Xanh,True,False,False,,,850000,800000,0.0,0.0,0.0,0.0,0.0
+145,Nokia,Nokia 110 4G,CÔNG TY SMART,Đen,True,False,False,,,850000,800000,0.0,0.0,0.0,0.0,0.0
+146,Nokia,Nokia 110 4G,CÔNG TY SMART,Đen,True,False,False,,,850000,800000,0.0,0.0,0.0,0.0,0.0
+147,Nokia,Nokia 110 4G,CÔNG TY SMART,Vàng,True,False,False,,,850000,800000,0.0,0.0,0.0,0.0,0.0
+148,Nokia,Nokia 110 4G,CÔNG TY SMART,Vàng,True,False,False,,,850000,800000,0.0,0.0,0.0,0.0,0.0
+149,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+150,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+151,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+152,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+153,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+154,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+155,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+156,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+157,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+158,Xiaomi,Xiaomi Redmi 9A,CÔNG TY SMART,Xám,True,False,False,2GB,32GB,2490000,2490000,0.0,0.0,0.0,0.0,0.0
+159,Masstel,Masstel Hapi 15,THẮNG THAO MOBILE,Đen,True,False,False,2GB,16GB,1690000,1159000,0.0,0.0,1.0,0.0,1.0
+160,Masstel,Masstel Hapi 15,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,16GB,1690000,1159000,0.0,0.0,1.0,0.0,3.0
+161,Masstel,Masstel Hapi 15,THẮNG THAO MOBILE,Vàng,True,False,False,2GB,16GB,1690000,1159000,1.0,0.0,0.0,1.0,0.0
+162,Nokia,Nokia C01 Plus,THẮNG THAO MOBILE,Tím,True,False,False,2GB,16GB,1879000,1569000,0.0,0.0,0.0,2.0,8.0
+163,Nokia,Nokia C01 Plus,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,16GB,1879000,1569000,1.0,1.0,2.0,5.0,17.0
+164,Nokia,Nokia C01 Plus,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,16GB,1879000,1569000,0.0,0.0,0.0,2.0,8.0
+165,Nokia,Nokia C01 Plus,THẮNG THAO MOBILE,Tím,True,False,False,2GB,16GB,1879000,1569000,0.0,0.0,0.0,0.0,1.0
+166,Nokia,Nokia C01 Plus,THẮNG THAO MOBILE,Tím,True,False,False,2GB,16GB,1879000,1569000,0.0,0.0,0.0,0.0,1.0
+167,Nokia,Nokia C20,THẮNG THAO MOBILE,Xanh,True,False,False,6GB,16GB,2290000,1689000,1.0,0.0,0.0,2.0,9.0
+168,Nokia,Nokia C20,THẮNG THAO MOBILE,Vàng,True,False,False,6GB,16GB,2290000,1689000,0.0,0.0,0.0,0.0,3.0
+169,OPPO,Oppo A16K,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,64GB,3790000,2869000,0.0,0.0,0.0,0.0,0.0
+170,OPPO,Oppo A16K,THẮNG THAO MOBILE,Đen,True,False,False,4GB,64GB,3790000,2869000,0.0,0.0,0.0,0.0,0.0
+171,OPPO,Oppo A55,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,64GB,4990000,3869000,0.0,0.0,0.0,0.0,0.0
+172,OPPO,Oppo A55,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,64GB,4990000,3869000,0.0,0.0,0.0,0.0,0.0
+173,OPPO,Oppo A55,THẮNG THAO MOBILE,Đen,True,False,False,4GB,64GB,4990000,3869000,0.0,0.0,0.0,0.0,0.0
+174,OPPO,Oppo A55,THẮNG THAO MOBILE,Đen,True,False,False,4GB,64GB,4990000,3869000,0.0,0.0,0.0,0.0,0.0
+175,OPPO,Oppo A55,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,64GB,4990000,3869000,0.0,0.0,0.0,0.0,0.0
+176,OPPO,Oppo A55,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,64GB,4990000,3869000,0.0,0.0,0.0,0.0,0.0
+177,OPPO,Oppo A55,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,64GB,4990000,3869000,0.0,0.0,0.0,0.0,0.0
+178,OPPO,Oppo Reno 6Z 5G,THẮNG THAO MOBILE,Đen,True,False,False,8GB,128GB,7490000,6290000,0.0,0.0,0.0,0.0,0.0
+179,OPPO,Oppo Reno 6Z 5G,THẮNG THAO MOBILE,Đen,True,False,False,8GB,128GB,7490000,6290000,0.0,0.0,0.0,0.0,0.0
+180,OPPO,Oppo Reno 6Z 5G,THẮNG THAO MOBILE,Bạc,True,False,False,8GB,128GB,7490000,6290000,0.0,0.0,0.0,0.0,0.0
+181,OPPO,Oppo Reno 6Z 5G,THẮNG THAO MOBILE,Bạc,True,False,False,8GB,128GB,7490000,6290000,0.0,0.0,0.0,0.0,0.0
+182,Realme,Realme C11 2021,THẮNG THAO MOBILE,Đen,True,False,False,2GB,32GB,2990000,2245000,0.0,0.0,0.0,0.0,0.0
+183,Realme,Realme C11 2021,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,32GB,2990000,2245000,0.0,0.0,0.0,0.0,0.0
+184,Realme,Realme C21Y,THẮNG THAO MOBILE,Đen,True,False,False,4GB,,3890000,2599000,0.0,0.0,0.0,0.0,0.0
+185,Samsung,Samsung Galaxy A03,THẮNG THAO MOBILE,Xanh,True,True,False,3GB,32GB,2990000,2899000,0.0,0.0,0.0,0.0,1.0
+186,Samsung,Samsung Galaxy A03,THẮNG THAO MOBILE,Đen,True,True,False,3GB,32GB,2990000,2899000,0.0,0.0,0.0,0.0,1.0
+187,Samsung,Samsung Galaxy A03,THẮNG THAO MOBILE,Xanh,True,False,False,3GB,32GB,2990000,2349000,0.0,0.0,0.0,0.0,0.0
+188,Samsung,Samsung Galaxy A03 Core,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,32GB,2590000,2129000,0.0,0.0,0.0,0.0,0.0
+189,Samsung,Samsung Galaxy A03 Core,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,32GB,2590000,2129000,0.0,0.0,0.0,0.0,0.0
+190,Samsung,Samsung Galaxy A03 Core,THẮNG THAO MOBILE,Đen,True,False,False,2GB,32GB,2590000,2129000,0.0,0.0,0.0,2.0,0.0
+191,Samsung,Samsung Galaxy A03 Core,THẮNG THAO MOBILE,Xanh Dương,True,False,False,2GB,32GB,2590000,2129000,0.0,0.0,0.0,1.0,0.0
+192,Samsung,Samsung Galaxy A03S,THẮNG THAO MOBILE,Đen,True,True,False,4GB,54GB,3690000,2399000,0.0,0.0,0.0,0.0,3.0
+193,Samsung,Samsung Galaxy A03S,THẮNG THAO MOBILE,Xanh,True,True,False,4GB,54GB,3690000,2399000,0.0,0.0,0.0,0.0,2.0
+194,Samsung,Samsung Galaxy M12,THẮNG THAO MOBILE,Xanh,True,False,False,3GB,32GB,3490000,2869000,0.0,0.0,1.0,0.0,13.0
+195,Samsung,Samsung Galaxy M12,THẮNG THAO MOBILE,Đen,True,False,False,3GB,32GB,3490000,2849000,1.0,0.0,0.0,3.0,18.0
+196,Samsung,Samsung Galaxy M12,THẮNG THAO MOBILE,Xanh,True,False,False,3GB,32GB,3490000,3499000,1.0,0.0,0.0,4.0,11.0
+197,Samsung,Samsung Galaxy M12,THẮNG THAO MOBILE,Đen,True,False,False,3GB,32GB,3490000,3499000,0.0,0.0,0.0,1.0,18.0
+198,Samsung,Samsung Galaxy M12,THẮNG THAO MOBILE,Xanh,True,True,False,3GB,32GB,3490000,3499000,0.0,0.0,0.0,0.0,3.0
+199,Samsung,Samsung Galaxy M12,THẮNG THAO MOBILE,Đen,True,True,False,3GB,32GB,3490000,3499000,0.0,0.0,0.0,0.0,1.0
+200,Sugar,Sugar A100,THẮNG THAO MOBILE,Xanh,True,False,False,,16GB,1690000,999000,0.0,0.0,0.0,1.0,7.0
+201,Sugar,Sugar A100 4G,THẮNG THAO MOBILE,Hồng,True,False,False,6GB,16GB,1690000,1049000,1.0,1.0,1.0,1.0,4.0
+202,Sugar,Sugar A100 4G,THẮNG THAO MOBILE,Xanh,True,False,False,6GB,16GB,1690000,1049000,0.0,0.0,0.0,2.0,5.0
+203,Tecno,Tecno Pop 5,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,32GB,2090000,2039000,0.0,0.0,0.0,1.0,0.0
+204,Tecno,Tecno Pop 5,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,32GB,2090000,2039000,0.0,0.0,0.0,0.0,0.0
+205,Tecno,Tecno Spark 7T,THẮNG THAO MOBILE,,True,False,False,4GB,64GB,3469000,2579000,0.0,0.0,0.0,1.0,7.0
+206,Tecno,Tecno Spark 7T,THẮNG THAO MOBILE,,True,False,False,4GB,64GB,3469000,2579000,0.0,0.0,0.0,0.0,10.0
+207,Tecno,Tecno Spark 7T,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,64GB,3469000,2579000,0.0,0.0,0.0,0.0,2.0
+208,Tecno,Tecno Spark 7T,THẮNG THAO MOBILE,Đen,True,False,False,4GB,64GB,3469000,2579000,0.0,0.0,0.0,0.0,2.0
+209,Tecno,Tecno Spark 8C,THẮNG THAO MOBILE,Đen,True,False,False,3GB,64GB,2480000,2499000,1.0,0.0,0.0,2.0,9.0
+210,Tecno,Tecno Spark 8C,THẮNG THAO MOBILE,Xanh,True,False,False,3GB,64GB,2480000,2499000,0.0,0.0,0.0,1.0,6.0
+211,Vivo,Vivo Y15S,THẮNG THAO MOBILE,Xanh,True,False,False,3GB,32GB,3490000,2790000,0.0,0.0,0.0,0.0,0.0
+212,Xiaomi,Xiaomi Redmi 10C,THẮNG THAO MOBILE,Xanh Dương,True,False,False,8GB,128GB,3890000,3259000,0.0,0.0,0.0,0.0,0.0
+213,Xiaomi,Xiaomi Redmi 10C,THẮNG THAO MOBILE,Đen,True,False,False,8GB,128GB,3890000,3259000,0.0,0.0,0.0,0.0,1.0
+214,Xiaomi,Xiaomi Redmi 9A,THẮNG THAO MOBILE,Xanh lá,True,False,False,2GB,32GB,2490000,2039000,0.0,0.0,0.0,0.0,0.0
+215,Xiaomi,Xiaomi Redmi 9A,THẮNG THAO MOBILE,Đen,True,False,False,2GB,32GB,2490000,2039000,0.0,0.0,0.0,0.0,0.0
+216,Xiaomi,Xiaomi Redmi 9A,THẮNG THAO MOBILE,Xanh,True,False,False,2GB,32GB,2490000,2039000,0.0,0.0,0.0,0.0,0.0
+217,Xiaomi,Xiaomi Redmi 9C,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,128GB,3490000,2899000,0.0,0.0,0.0,1.0,0.0
+218,Xiaomi,Xiaomi Redmi 9C,THẮNG THAO MOBILE,Đen,True,False,False,4GB,128GB,3490000,2899000,0.0,0.0,0.0,0.0,0.0
+219,Xiaomi,Xiaomi Redmi 9C,THẮNG THAO MOBILE,Đen,True,False,False,4GB,128GB,3490000,2549000,0.0,1.0,0.0,0.0,2.0
+220,Xiaomi,Xiaomi Redmi 9C,THẮNG THAO MOBILE,Xanh,True,False,False,4GB,128GB,3490000,2549000,0.0,0.0,0.0,0.0,2.0
+221,Masstel,Masstel Hapi 30,Hồng Hạnh Mobile,Xanh,True,False,False,3GB,32GB,2390000,1819000,0.0,0.0,0.0,0.0,0.0
+222,Masstel,Masstel Hapi 30,Hồng Hạnh Mobile,Đen,True,False,False,3GB,32GB,2390000,1819000,0.0,0.0,0.0,0.0,0.0
+223,Masstel,Masstel Hapi 30,Hồng Hạnh Mobile,Vàng,True,False,False,3GB,32GB,2390000,1819000,0.0,0.0,0.0,0.0,1.0
+224,Nokia,Nokia C21 Plus,Hồng Hạnh Mobile,Xanh,True,False,False,2GB,32GB,2590000,2009000,0.0,0.0,0.0,0.0,3.0
+225,Nokia,Nokia C21 Plus,Hồng Hạnh Mobile,Xám,True,False,False,2GB,32GB,2590000,2009000,0.0,0.0,0.0,0.0,1.0
+226,Nokia,Nokia G11,Hồng Hạnh Mobile,Xanh,True,False,False,4GB,64GB,3890000,2749000,0.0,0.0,0.0,0.0,0.0
+227,OPPO,Oppo A15S,Hồng Hạnh Mobile,Đen,True,False,False,4GB,64GB,4190000,3859000,0.0,0.0,0.0,0.0,0.0
+228,OPPO,Oppo A57,Hồng Hạnh Mobile,Xanh,True,False,False,4GB,64GB,4490000,3819000,0.0,0.0,0.0,0.0,0.0
+229,OPPO,Oppo A57,Hồng Hạnh Mobile,Đen,True,False,False,4GB,64GB,4490000,3819000,0.0,0.0,0.0,0.0,0.0
+230,OPPO,Oppo A77S,Hồng Hạnh Mobile,Xanh,True,False,False,8GB,128GB,6290000,5729000,0.0,0.0,0.0,0.0,0.0
+231,OPPO,Oppo A77S,Hồng Hạnh Mobile,Đen,True,False,False,8GB,128GB,6290000,5729000,0.0,0.0,0.0,0.0,0.0
+232,OPPO,Oppo A95,Hồng Hạnh Mobile,Đen,True,False,False,8GB,128GB,6990000,5399000,0.0,0.0,0.0,0.0,0.0
+233,OPPO,Oppo A95,Hồng Hạnh Mobile,Bạc,True,False,False,8GB,128GB,6990000,5399000,0.0,0.0,0.0,0.0,1.0
+234,OPPO,Oppo Reno8 Z 5G,Hồng Hạnh Mobile,Đen,True,False,False,8GB,256GB,10490000,9139000,0.0,0.0,0.0,0.0,0.0
+235,Realme,Realme C25Y,Hồng Hạnh Mobile,Xám,True,False,False,4GB,128GB,4990000,3839000,0.0,0.0,0.0,0.0,0.0
+236,Realme,Realme C25Y,Hồng Hạnh Mobile,Xanh,True,False,False,4GB,128GB,4990000,3839000,0.0,0.0,0.0,0.0,0.0
+237,Samsung,Samsung Galaxy A03S,Hồng Hạnh Mobile,Đen,True,False,False,4GB,54GB,3690000,2499000,0.0,0.0,0.0,0.0,2.0
+238,Samsung,Samsung Galaxy A04S,Hồng Hạnh Mobile,Đen,True,False,False,4GB,64GB,3990000,3349000,0.0,0.0,0.0,0.0,0.0
+239,Samsung,Samsung Galaxy A04S,Hồng Hạnh Mobile,Xanh,True,False,False,4GB,64GB,3990000,3349000,0.0,0.0,0.0,0.0,0.0
+240,Samsung,Samsung Galaxy A04S,Hồng Hạnh Mobile,Hồng,True,False,False,4GB,64GB,3990000,3349000,0.0,0.0,0.0,0.0,0.0
+241,Samsung,Samsung Galaxy A13,Hồng Hạnh Mobile,Đen,True,False,False,8GB,128GB,4990000,3689000,0.0,0.0,0.0,0.0,2.0
+242,Samsung,Samsung Galaxy A13,Hồng Hạnh Mobile,Xanh,True,False,False,8GB,128GB,4990000,3689000,0.0,0.0,0.0,0.0,7.0
+243,Samsung,Samsung Galaxy A23,Hồng Hạnh Mobile,Đen,True,False,False,8GB,128GB,5690000,4409000,0.0,0.0,0.0,0.0,4.0
+244,Samsung,Samsung Galaxy A23,Hồng Hạnh Mobile,Cam,True,False,False,8GB,128GB,5690000,4409000,0.0,0.0,0.0,0.0,1.0
+245,Samsung,Samsung Galaxy A23,Hồng Hạnh Mobile,Xanh,True,False,False,8GB,128GB,5690000,4409000,0.0,0.0,0.0,0.0,1.0
+246,Samsung,Samsung Galaxy A33 5G,Hồng Hạnh Mobile,Xanh,True,False,False,8GB,128GB,8490000,6109000,0.0,0.0,0.0,0.0,1.0
+247,Samsung,Samsung Galaxy A73 5G,Hồng Hạnh Mobile,Xám,True,False,False,8GB,128GB,11000000,9659000,0.0,0.0,0.0,1.0,1.0
+248,Samsung,Samsung Galaxy A73 5G,Hồng Hạnh Mobile,Xanh,True,False,False,8GB,128GB,11000000,9659000,0.0,0.0,0.0,0.0,1.0
+249,Samsung,Samsung Galaxy S21 FE 5G,Hồng Hạnh Mobile,Đen,True,False,False,8GB,8GB,15990000,12439000,0.0,0.0,0.0,0.0,0.0
+250,Samsung,Samsung Galaxy S21 FE 5G,Hồng Hạnh Mobile,Trắng,True,False,False,8GB,8GB,15990000,12439000,0.0,0.0,0.0,0.0,1.0
+251,Samsung,Samsung Galaxy S21 FE 5G,Hồng Hạnh Mobile,Đen,True,False,False,8GB,8GB,15990000,13849000,0.0,0.0,0.0,0.0,0.0
+252,Samsung,Samsung Galaxy S21 FE 5G,Hồng Hạnh Mobile,Tím,True,False,False,8GB,8GB,15990000,13849000,0.0,0.0,0.0,0.0,0.0
+253,Samsung,Samsung Galaxy S21 FE 5G,Hồng Hạnh Mobile,Xanh,True,False,False,8GB,8GB,15990000,13849000,0.0,0.0,0.0,0.0,0.0
+254,Tecno,Tecno Spark 6 Go,Hồng Hạnh Mobile,,True,False,False,4GB,64GB,2990000,2489000,0.0,0.0,0.0,0.0,3.0
+255,Tecno,Tecno Spark 6 Go,Hồng Hạnh Mobile,Xanh,True,False,False,4GB,64GB,2990000,2489000,0.0,0.0,0.0,0.0,1.0
+256,Tecno,Tecno Spark 7T,Hồng Hạnh Mobile,Đen,True,False,False,4GB,64GB,3469000,2649000,0.0,0.0,0.0,0.0,4.0
+257,Vivo,Vivo T1X,Hồng Hạnh Mobile,Xanh,True,False,False,4GB,64GB,4490000,3999000,0.0,0.0,0.0,0.0,0.0
+258,Vivo,Vivo T1X,Hồng Hạnh Mobile,Đen,True,False,False,4GB,64GB,4490000,3999000,0.0,0.0,0.0,0.0,0.0
+259,Vivo,Vivo Y01,Hồng Hạnh Mobile,Xanh,True,False,False,2GB,32GB,2550000,2550000,0.0,0.0,0.0,0.0,0.0
+260,Vivo,Vivo Y02S,Hồng Hạnh Mobile,Đen,True,False,False,3GB,32GB,3490000,3119000,0.0,0.0,0.0,0.0,0.0
+261,Vivo,Vivo Y02S,Hồng Hạnh Mobile,Xanh,True,False,False,3GB,32GB,3490000,3119000,0.0,0.0,0.0,0.0,0.0
+262,Vivo,Vivo Y15S,Hồng Hạnh Mobile,Xanh,True,False,False,3GB,32GB,3490000,2789000,0.0,0.0,0.0,0.0,0.0
+263,Vsmart,Vsmart Bee Lite,Hồng Hạnh Mobile,Xanh,True,False,False,6GB,16GB,1990000,1419000,2.0,0.0,1.0,0.0,11.0
+264,Xiaomi,Xiaomi Redmi 10,Hồng Hạnh Mobile,Trắng,True,False,False,8GB,128GB,4290000,3559000,0.0,0.0,0.0,3.0,10.0
+265,Xiaomi,Xiaomi Redmi 10,Hồng Hạnh Mobile,Xám,True,False,False,8GB,128GB,4290000,3559000,1.0,0.0,0.0,0.0,13.0
+266,Xiaomi,Xiaomi Redmi 10A,Hồng Hạnh Mobile,Bạc,True,False,False,2GB,32GB,2890000,2319000,0.0,0.0,0.0,0.0,0.0
+267,Xiaomi,Xiaomi Redmi 10A,Hồng Hạnh Mobile,Xám,True,False,False,2GB,32GB,2890000,2319000,0.0,0.0,0.0,0.0,0.0
+268,Xiaomi,Xiaomi Redmi 10A,Hồng Hạnh Mobile,Xanh,True,False,False,2GB,32GB,2890000,2319000,0.0,0.0,0.0,0.0,0.0
+269,Xiaomi,Xiaomi Redmi 10C,Hồng Hạnh Mobile,Xám,True,False,False,8GB,128GB,3890000,3239000,0.0,0.0,0.0,1.0,4.0
+270,Xiaomi,Xiaomi Redmi 10C,Hồng Hạnh Mobile,Xanh,True,False,False,8GB,128GB,3890000,3239000,0.0,0.0,0.0,0.0,1.0
+271,Xiaomi,Xiaomi Redmi A1,Hồng Hạnh Mobile,Đen,True,False,False,2GB,32GB,2490000,1939000,0.0,0.0,0.0,0.0,0.0
+272,Xiaomi,Xiaomi Redmi Note 10S,Hồng Hạnh Mobile,Trắng,True,False,False,8GB,128GB,6490000,4749000,0.0,0.0,0.0,0.0,0.0
+273,Xiaomi,Xiaomi Redmi Note 11 Pro,Hồng Hạnh Mobile,Xanh Dương,True,False,False,8GB,128GB,7490000,6479000,0.0,0.0,0.0,0.0,3.0
+274,Xiaomi,Xiaomi Redmi Note 11 Pro,Hồng Hạnh Mobile,Xám,True,False,False,8GB,128GB,7490000,6479000,0.0,0.0,0.0,0.0,3.0
+275,Xiaomi,Xiaomi Redmi Note 11 Pro,Hồng Hạnh Mobile,Trắng,True,False,False,8GB,128GB,7490000,6479000,0.0,0.0,0.0,0.0,0.0
+276,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,Hồng Hạnh Mobile,Trắng,True,False,False,8GB,128GB,8990000,7759000,0.0,0.0,0.0,0.0,0.0
+277,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,Hồng Hạnh Mobile,Xanh Dương,True,False,False,8GB,128GB,8990000,7759000,0.0,0.0,0.0,0.0,0.0
+278,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,Hồng Hạnh Mobile,Xám,True,False,False,8GB,128GB,8990000,7759000,0.0,0.0,0.0,0.0,2.0
+279,Nokia,Nokia 8210 4G,HAPPY PHONE,Xanh,True,False,False,,,1490000,1410000,0.0,0.0,0.0,0.0,0.0
+280,Nokia,Nokia C20,HAPPY PHONE,Xanh,True,False,False,6GB,16GB,2290000,2290000,0.0,0.0,0.0,2.0,2.0
+281,Nokia,Nokia C20,HAPPY PHONE,Vàng,True,False,False,6GB,16GB,2290000,2290000,0.0,0.0,0.0,2.0,5.0
+282,OPPO,Oppo A16K,HAPPY PHONE,Trắng,True,False,False,4GB,64GB,3790000,3230000,0.0,0.0,0.0,0.0,0.0
+283,OPPO,Oppo A55,HAPPY PHONE,Xanh,True,False,False,4GB,64GB,4990000,3780000,0.0,0.0,0.0,0.0,2.0
+284,OPPO,Oppo A55,HAPPY PHONE,Đen,True,False,False,4GB,64GB,4990000,3780000,0.0,0.0,0.0,0.0,0.0
+285,OPPO,Oppo A55,HAPPY PHONE,Xanh,True,False,False,4GB,64GB,4990000,4990000,0.0,0.0,0.0,1.0,0.0
+286,OPPO,Oppo A57,HAPPY PHONE,Đen,True,False,False,4GB,64GB,4490000,4080000,0.0,0.0,0.0,0.0,0.0
+287,OPPO,Oppo A57,HAPPY PHONE,Xanh,True,False,False,4GB,64GB,4490000,4080000,0.0,0.0,0.0,0.0,0.0
+288,OPPO,Oppo A76,HAPPY PHONE,Đen,True,False,False,6GB,128GB,5990000,5490000,0.0,0.0,0.0,0.0,1.0
+289,OPPO,Oppo A94,HAPPY PHONE,Tím,True,True,False,8GB,128GB,7690000,4990000,0.0,0.0,0.0,0.0,0.0
+290,OPPO,Oppo A94,HAPPY PHONE,Đen,True,True,False,8GB,128GB,7690000,4990000,0.0,0.0,0.0,0.0,1.0
+291,OPPO,Oppo A95,HAPPY PHONE,Bạc,True,False,False,8GB,128GB,6990000,5249000,0.0,0.0,0.0,0.0,2.0
+292,OPPO,Oppo A95,HAPPY PHONE,Đen,True,False,False,8GB,128GB,6990000,5249000,0.0,0.0,0.0,0.0,0.0
+293,OPPO,Oppo A96,HAPPY PHONE,Đen,True,False,False,8GB,8GB,6990000,6650000,0.0,0.0,0.0,0.0,0.0
+294,OPPO,Oppo Reno7 4G,HAPPY PHONE,Cam,True,False,False,8GB,128GB,8990000,8990000,0.0,0.0,0.0,0.0,0.0
+295,OPPO,Oppo Reno7 Z 5G,HAPPY PHONE,Đen,True,False,False,,128GB,10990000,8290000,0.0,0.0,0.0,0.0,0.0
+296,OPPO,Oppo Reno8 4G,HAPPY PHONE,Vàng,True,False,False,8GB,256GB,8990000,8190000,0.0,0.0,0.0,0.0,0.0
+297,OPPO,Oppo Reno8 4G,HAPPY PHONE,Đen,True,False,False,8GB,256GB,8990000,8190000,0.0,0.0,0.0,0.0,0.0
+298,OPPO,Oppo Reno8 Z 5G,HAPPY PHONE,Đen,True,False,False,8GB,256GB,10490000,9190000,0.0,0.0,0.0,0.0,0.0
+299,OPPO,Oppo Reno8 Z 5G,HAPPY PHONE,Vàng,True,False,False,8GB,256GB,10490000,9190000,0.0,0.0,0.0,0.0,0.0
+300,Samsung,Samsung Galaxy A03,HAPPY PHONE,Xanh,True,True,False,3GB,32GB,2990000,2650000,0.0,0.0,0.0,0.0,0.0
+301,Samsung,Samsung Galaxy A03,HAPPY PHONE,Xanh,True,True,False,3GB,32GB,2990000,2650000,0.0,0.0,0.0,0.0,0.0
+302,Samsung,Samsung Galaxy A03,HAPPY PHONE,Đen,True,True,False,3GB,32GB,2990000,2650000,0.0,0.0,0.0,0.0,0.0
+303,Samsung,Samsung Galaxy A03,HAPPY PHONE,Đen,True,True,False,3GB,32GB,2990000,2650000,0.0,0.0,0.0,0.0,0.0
+304,Samsung,Samsung Galaxy A03 Core,HAPPY PHONE,Xanh lá,True,True,False,2GB,32GB,2590000,2150000,0.0,0.0,0.0,0.0,0.0
+305,Samsung,Samsung Galaxy A03 Core,HAPPY PHONE,,True,True,False,2GB,32GB,2590000,2150000,0.0,0.0,0.0,0.0,0.0
+306,Samsung,Samsung Galaxy A03 Core,HAPPY PHONE,Xám,True,True,False,2GB,32GB,2590000,2150000,0.0,0.0,0.0,0.0,0.0
+307,Samsung,Samsung Galaxy A04S,HAPPY PHONE,Xanh lá,True,True,False,4GB,64GB,3990000,3300000,0.0,0.0,0.0,0.0,0.0
+308,Samsung,Samsung Galaxy A04S,HAPPY PHONE,Đen,True,True,False,4GB,64GB,3990000,3300000,0.0,0.0,0.0,0.0,0.0
+309,Samsung,Samsung Galaxy A04S,HAPPY PHONE,,True,True,False,4GB,64GB,3990000,3300000,0.0,0.0,0.0,0.0,0.0
+310,Samsung,Samsung Galaxy A13,HAPPY PHONE,Cam,True,True,False,8GB,128GB,4990000,3790000,1.0,0.0,0.0,0.0,5.0
+311,Samsung,Samsung Galaxy A13,HAPPY PHONE,Cam,True,True,False,8GB,128GB,4990000,3790000,1.0,0.0,0.0,0.0,5.0
+312,Samsung,Samsung Galaxy A32,HAPPY PHONE,Đen,True,True,False,,128GB,5290000,4890000,0.0,0.0,1.0,2.0,20.0
+313,Samsung,Samsung Galaxy A32,HAPPY PHONE,Xanh,True,True,False,,128GB,5290000,4890000,0.0,0.0,0.0,3.0,22.0
+314,Samsung,Samsung Galaxy A32,HAPPY PHONE,Đen,True,True,False,,128GB,5290000,5190000,0.0,0.0,0.0,1.0,1.0
+315,Samsung,Samsung Galaxy A32,HAPPY PHONE,Xanh,True,True,False,,128GB,5290000,5190000,0.0,0.0,0.0,0.0,2.0
+316,Samsung,Samsung Galaxy A33 5G,HAPPY PHONE,Xanh,True,True,False,8GB,128GB,8490000,6390000,0.0,0.0,0.0,0.0,5.0
+317,Samsung,Samsung Galaxy A33 5G,HAPPY PHONE,Xanh,True,True,False,8GB,128GB,8490000,6390000,0.0,0.0,0.0,0.0,5.0
+318,Samsung,Samsung Galaxy A33 5G,HAPPY PHONE,Đen,True,True,False,8GB,128GB,8490000,6390000,1.0,0.0,0.0,0.0,2.0
+319,Samsung,Samsung Galaxy A33 5G,HAPPY PHONE,Đen,True,True,False,8GB,128GB,8490000,6390000,1.0,0.0,0.0,0.0,2.0
+320,Samsung,Samsung Galaxy A53 5G,HAPPY PHONE,Trắng,True,True,False,8GB,128GB,9990000,7990000,0.0,0.0,0.0,0.0,3.0
+321,Samsung,Samsung Galaxy A53 5G,HAPPY PHONE,Trắng,True,True,False,8GB,128GB,9990000,7990000,0.0,0.0,0.0,0.0,3.0
+322,Samsung,Samsung Galaxy A53 5G,HAPPY PHONE,Cam,True,True,False,8GB,128GB,9990000,7990000,0.0,0.0,0.0,0.0,5.0
+323,Samsung,Samsung Galaxy A53 5G,HAPPY PHONE,Cam,True,True,False,8GB,128GB,9990000,7990000,0.0,0.0,0.0,0.0,5.0
+324,Samsung,Samsung Galaxy A53 5G,HAPPY PHONE,Đen,True,True,False,8GB,128GB,9990000,7990000,0.0,0.0,0.0,0.0,0.0
+325,Samsung,Samsung Galaxy A53 5G,HAPPY PHONE,Đen,True,True,False,8GB,128GB,9990000,7990000,0.0,0.0,0.0,0.0,0.0
+326,Samsung,Samsung Galaxy A53 5G,HAPPY PHONE,Xanh,True,True,False,8GB,128GB,9990000,7990000,0.0,0.0,0.0,1.0,5.0
+327,Samsung,Samsung Galaxy A73 5G,HAPPY PHONE,Trắng,True,True,False,8GB,128GB,11000000,11000000,0.0,0.0,0.0,0.0,0.0
+328,Samsung,Samsung Galaxy A73 5G,HAPPY PHONE,Trắng,True,True,False,8GB,128GB,11000000,11000000,0.0,0.0,0.0,0.0,0.0
+329,Samsung,Samsung Galaxy A73 5G,HAPPY PHONE,Xám,True,True,False,8GB,128GB,11000000,9639000,0.0,0.0,0.0,0.0,0.0
+330,Samsung,Samsung Galaxy A73 5G,HAPPY PHONE,Xám,True,True,False,8GB,128GB,11000000,9639000,0.0,0.0,0.0,0.0,0.0
+331,Samsung,Samsung Galaxy M32,HAPPY PHONE,Xanh,True,True,False,8GB,128GB,5990000,5990000,1.0,0.0,1.0,10.0,84.0
+332,Samsung,Samsung Galaxy M32,HAPPY PHONE,Đen,True,True,False,8GB,128GB,5990000,4490000,2.0,0.0,0.0,11.0,93.0
+333,Samsung,Samsung Galaxy M32,HAPPY PHONE,Trắng,True,True,False,8GB,128GB,5990000,4490000,0.0,0.0,0.0,3.0,22.0
+334,Samsung,Samsung Galaxy S22 5G,HAPPY PHONE,Trắng,True,True,False,8GB,256GB,23490000,15090000,0.0,0.0,0.0,0.0,0.0
+335,Samsung,Samsung Galaxy S22 5G,HAPPY PHONE,Đen,True,True,False,8GB,256GB,23490000,15900000,0.0,0.0,0.0,0.0,0.0
+336,Samsung,Samsung Galaxy S22 5G,HAPPY PHONE,Hồng,True,True,False,8GB,256GB,23490000,15900000,0.0,0.0,0.0,0.0,0.0
+337,Samsung,Samsung Galaxy S22 5G,HAPPY PHONE,Trắng,True,True,False,8GB,256GB,23490000,15890000,0.0,0.0,0.0,0.0,0.0
+338,Samsung,Samsung Galaxy S22 Plus 5G,HAPPY PHONE,Đen,True,True,False,8GB,256GB,27490000,18190000,0.0,0.0,0.0,0.0,0.0
+339,Samsung,Samsung Galaxy S22 Ultra 5G,HAPPY PHONE,Trắng,True,True,False,6GB,256GB,33990000,21000000,0.0,0.0,0.0,0.0,1.0
+340,Samsung,Samsung Galaxy S22 Ultra 5G,HAPPY PHONE,Xanh lá,True,True,False,6GB,256GB,33990000,21000000,0.0,0.0,0.0,0.0,0.0
+341,Samsung,Samsung Galaxy S22 Ultra 5G,HAPPY PHONE,Đen,True,True,False,6GB,256GB,33990000,21000000,0.0,0.0,0.0,0.0,0.0
+342,Samsung,Samsung Galaxy S22 Ultra 5G,HAPPY PHONE,Xanh lá,True,True,False,6GB,256GB,33990000,25900000,0.0,0.0,0.0,0.0,0.0
+343,Samsung,Samsung Galaxy S22 Ultra 5G,HAPPY PHONE,Đen,True,True,False,6GB,256GB,33990000,25900000,0.0,0.0,0.0,0.0,0.0
+344,Samsung,Samsung Galaxy S22 Ultra 5G,HAPPY PHONE,Đen,True,True,False,6GB,256GB,33990000,29100000,0.0,0.0,0.0,0.0,0.0
+345,Samsung,Samsung Galaxy Z Flip4,HAPPY PHONE,Xám,True,True,False,8GB,128GB,23990000,18990000,0.0,0.0,0.0,0.0,0.0
+346,Samsung,Samsung Galaxy Z Flip4,HAPPY PHONE,Tím,True,True,False,8GB,128GB,23990000,18990000,0.0,0.0,0.0,0.0,0.0
+347,Samsung,Samsung Galaxy Z Flip4,HAPPY PHONE,Xanh,True,True,False,8GB,128GB,23990000,18990000,0.0,0.0,0.0,0.0,0.0
+348,Samsung,Samsung Galaxy Z Fold4 5G,HAPPY PHONE,Đen,True,True,False,6GB,256GB,40990000,35590000,0.0,0.0,0.0,0.0,0.0
+349,Samsung,Samsung Galaxy Z Fold4 5G,HAPPY PHONE,Kem,True,True,False,6GB,256GB,40990000,35590000,0.0,0.0,0.0,0.0,0.0
+350,Vivo,Vivo Y16,HAPPY PHONE,Vàng,True,False,False,4GB,128GB,4490000,3990000,0.0,0.0,0.0,0.0,0.0
+351,Vivo,Vivo Y16,HAPPY PHONE,Đen,True,False,False,4GB,128GB,4490000,3990000,0.0,0.0,0.0,0.0,0.0
+352,Xiaomi,Xiaomi Redmi 10A,HAPPY PHONE,Xám,True,False,False,2GB,32GB,2890000,2390000,0.0,0.0,0.0,0.0,1.0
+353,Xiaomi,Xiaomi Redmi 10A,HAPPY PHONE,Xanh,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+354,Xiaomi,Xiaomi Redmi 10A,HAPPY PHONE,Bạc,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+355,Xiaomi,Xiaomi Redmi 10C,HAPPY PHONE,Xanh,True,False,False,8GB,128GB,3890000,3295000,0.0,0.0,0.0,0.0,3.0
+356,Xiaomi,Xiaomi Redmi 10C,HAPPY PHONE,Xám,True,False,False,8GB,128GB,3890000,3295000,0.0,0.0,0.0,0.0,1.0
+357,Xiaomi,Xiaomi Redmi Note 10S,HAPPY PHONE,Xanh,True,False,False,8GB,128GB,6490000,4729000,0.0,1.0,0.0,3.0,14.0
+358,Xiaomi,Xiaomi Redmi Note 10S,HAPPY PHONE,Xám,True,False,False,8GB,128GB,6490000,4729000,1.0,0.0,0.0,2.0,14.0
+359,Xiaomi,Xiaomi Redmi Note 11,HAPPY PHONE,Xanh Dương,True,False,False,8GB,128GB,6490000,4250000,0.0,0.0,0.0,0.0,4.0
+360,Xiaomi,Xiaomi Redmi Note 11,HAPPY PHONE,Xám,True,False,False,8GB,128GB,6490000,4250000,0.0,0.0,0.0,0.0,3.0
+361,Xiaomi,Xiaomi Redmi Note 11 Pro,HAPPY PHONE,Xanh,True,False,False,8GB,128GB,7490000,6479000,0.0,0.0,0.0,0.0,7.0
+362,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,HAPPY PHONE,Xám,True,False,False,8GB,128GB,8990000,8090000,0.0,0.0,0.0,0.0,0.0
+363,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,HAPPY PHONE,Xanh,True,False,False,8GB,128GB,8990000,8090000,0.0,0.0,0.0,0.0,0.0
+364,Xiaomi,Xiaomi Redmi Note 11S,HAPPY PHONE,Xanh,True,False,False,8GB,128GB,6690000,5789000,0.0,0.0,0.0,1.0,3.0
+365,Xiaomi,Xiaomi Redmi Note 11S,HAPPY PHONE,Xám,True,False,False,8GB,128GB,6690000,5790000,0.0,0.0,0.0,0.0,0.0
+366,Nokia,Nokia C20,minhphuc186,Xanh,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,0.0
+367,Nokia,Nokia C20,minhphuc186,Xanh,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,0.0
+368,Nokia,Nokia C20,minhphuc186,Xanh,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,0.0
+369,Nokia,Nokia C20,minhphuc186,Xanh,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,0.0
+370,Nokia,Nokia C20,minhphuc186,Vàng,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,0.0
+371,Nokia,Nokia C20,minhphuc186,Vàng,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,0.0
+372,Nokia,Nokia C20,minhphuc186,Vàng,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,0.0
+373,Nokia,Nokia C20,minhphuc186,Vàng,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,0.0
+374,OPPO,Oppo A16K,minhphuc186,Đen,True,False,False,4GB,64GB,3790000,2750000,0.0,0.0,0.0,0.0,0.0
+375,Realme,Realme C35,minhphuc186,Xanh lá,True,False,False,4GB,64GB,4290000,3890000,0.0,0.0,0.0,0.0,0.0
+376,Realme,Realme C35,minhphuc186,Xanh lá,True,False,False,4GB,64GB,4290000,3890000,0.0,0.0,0.0,0.0,0.0
+377,Realme,Realme C35,minhphuc186,Đen,True,False,False,4GB,64GB,4290000,3890000,0.0,0.0,0.0,0.0,0.0
+378,Realme,Realme C35,minhphuc186,Đen,True,False,False,4GB,64GB,4290000,3890000,0.0,0.0,0.0,0.0,0.0
+379,Realme,Realme Narzo 50I Prime,minhphuc186,Xanh,True,False,False,4GB,64GB,2690000,2520000,0.0,0.0,0.0,0.0,0.0
+380,Realme,Realme Narzo 50I Prime,minhphuc186,Xanh,True,False,False,4GB,64GB,2690000,2520000,0.0,0.0,0.0,0.0,0.0
+381,Realme,Realme Narzo 50I Prime,minhphuc186,Xanh Dương,True,False,False,4GB,64GB,2690000,2220000,0.0,0.0,0.0,0.0,0.0
+382,Realme,Realme Narzo 50I Prime,minhphuc186,Xanh,True,False,False,4GB,64GB,2690000,2220000,0.0,0.0,0.0,0.0,0.0
+383,Tecno,Tecno Spark 8C,minhphuc186,Đen,True,False,False,3GB,64GB,2480000,1990000,0.0,0.0,0.0,0.0,0.0
+384,Tecno,Tecno Spark 8C,minhphuc186,Xanh,True,False,False,3GB,64GB,2480000,1990000,0.0,0.0,0.0,0.0,0.0
+385,Tecno,Tecno Spark 8C,minhphuc186,Xám,True,False,False,3GB,64GB,2480000,1990000,0.0,0.0,0.0,0.0,0.0
+386,Tecno,Tecno Spark 8C,minhphuc186,Tím,True,False,False,3GB,64GB,2480000,1990000,0.0,0.0,0.0,0.0,0.0
+387,Vivo,Vivo T1X,minhphuc186,Đen,True,False,False,4GB,64GB,4490000,3890000,0.0,0.0,0.0,0.0,0.0
+388,Vivo,Vivo T1X,minhphuc186,Đen,True,False,False,4GB,64GB,4490000,3890000,0.0,0.0,0.0,0.0,0.0
+389,Vivo,Vivo T1X,minhphuc186,Xanh,True,False,False,4GB,64GB,4490000,3890000,0.0,0.0,0.0,0.0,0.0
+390,Vivo,Vivo T1X,minhphuc186,Xanh,True,False,False,4GB,64GB,4490000,3890000,0.0,0.0,0.0,0.0,0.0
+391,Nokia,Nokia C20,Long Hưng Mobile,Xanh,True,False,False,6GB,16GB,2290000,1949000,0.0,0.0,1.0,0.0,6.0
+392,Nokia,Nokia C20,Long Hưng Mobile,Xanh,True,False,False,6GB,16GB,2290000,1949000,0.0,0.0,1.0,0.0,6.0
+393,Nokia,Nokia C20,Long Hưng Mobile,Vàng,True,False,False,6GB,16GB,2290000,1949000,0.0,0.0,0.0,0.0,2.0
+394,Nokia,Nokia C20,Long Hưng Mobile,Vàng,True,False,False,6GB,16GB,2290000,1969000,0.0,0.0,0.0,0.0,1.0
+395,Nokia,Nokia C21 Plus,Long Hưng Mobile,Xanh,True,False,False,2GB,32GB,2590000,2039000,0.0,0.0,0.0,0.0,0.0
+396,Nokia,Nokia C21 Plus,Long Hưng Mobile,Xanh,True,False,False,2GB,32GB,2590000,2039000,0.0,0.0,0.0,0.0,0.0
+397,Nokia,Nokia C21 Plus,Long Hưng Mobile,Xám,True,False,False,2GB,32GB,2590000,2039000,0.0,0.0,0.0,0.0,0.0
+398,Nokia,Nokia C21 Plus,Long Hưng Mobile,Xám,True,False,False,2GB,32GB,2590000,2039000,0.0,0.0,0.0,0.0,0.0
+399,OPPO,Oppo A16K,Long Hưng Mobile,Xanh,True,False,False,4GB,64GB,3790000,3290000,0.0,0.0,0.0,1.0,3.0
+400,OPPO,Oppo A16K,Long Hưng Mobile,Đen,True,False,False,4GB,64GB,3790000,3049000,0.0,0.0,0.0,0.0,0.0
+401,OPPO,Oppo A55,Long Hưng Mobile,Đen,True,False,False,4GB,64GB,4990000,3899000,0.0,0.0,0.0,0.0,0.0
+402,OPPO,Oppo A57,Long Hưng Mobile,Xanh,True,False,False,4GB,64GB,4490000,4339000,0.0,0.0,0.0,0.0,0.0
+403,OPPO,Oppo A57,Long Hưng Mobile,Đen,True,False,False,4GB,64GB,4490000,4339000,0.0,0.0,0.0,0.0,0.0
+404,OPPO,Oppo A94,Long Hưng Mobile,Tím,True,False,False,8GB,128GB,7690000,7690000,0.0,0.0,0.0,0.0,1.0
+405,OPPO,Oppo A94,Long Hưng Mobile,Đen,True,False,False,8GB,128GB,7690000,7690000,0.0,0.0,0.0,0.0,1.0
+406,OPPO,Oppo A95,Long Hưng Mobile,Đen,True,False,False,8GB,128GB,6990000,6399000,0.0,0.0,0.0,0.0,0.0
+407,OPPO,Oppo A95,Long Hưng Mobile,Bạc,True,False,False,8GB,128GB,6990000,6399000,0.0,0.0,0.0,0.0,0.0
+408,Realme,Realme C11 2021,Long Hưng Mobile,Xanh Dương,True,False,False,2GB,32GB,2990000,3479000,0.0,0.0,0.0,0.0,0.0
+409,Realme,Realme C11 2021,Long Hưng Mobile,Xanh Dương,True,False,False,2GB,32GB,2990000,3479000,0.0,0.0,0.0,0.0,0.0
+410,Realme,Realme C11 2021,Long Hưng Mobile,Xám,True,False,False,2GB,32GB,2990000,3790000,0.0,0.0,0.0,0.0,0.0
+411,Realme,Realme C11 2021,Long Hưng Mobile,Xám,True,False,False,2GB,32GB,2990000,3790000,0.0,0.0,0.0,0.0,0.0
+412,Realme,Realme C25Y,Long Hưng Mobile,Xanh,True,False,False,4GB,128GB,4990000,3939000,0.0,0.0,0.0,0.0,0.0
+413,Realme,Realme C25Y,Long Hưng Mobile,Xám,True,False,False,4GB,128GB,4990000,3939000,0.0,0.0,0.0,0.0,0.0
+414,Samsung,Samsung Galaxy A03,Long Hưng Mobile,Đỏ,True,False,False,3GB,32GB,2990000,2990000,0.0,0.0,0.0,1.0,0.0
+415,Samsung,Samsung Galaxy A03,Long Hưng Mobile,Xanh dương,True,False,False,3GB,32GB,2990000,2149000,0.0,0.0,0.0,0.0,2.0
+416,Samsung,Samsung Galaxy A03,Long Hưng Mobile,Đen,True,False,False,3GB,32GB,2990000,2149000,0.0,0.0,0.0,0.0,0.0
+417,Samsung,Samsung Galaxy A03S,Long Hưng Mobile,Đen,True,False,False,4GB,54GB,3690000,2829000,0.0,0.0,0.0,0.0,0.0
+418,Samsung,Samsung Galaxy A03S,Long Hưng Mobile,Đen,True,False,False,4GB,54GB,3690000,2829000,0.0,0.0,0.0,0.0,0.0
+419,Samsung,Samsung Galaxy A03S,Long Hưng Mobile,Đen,True,False,False,4GB,54GB,3690000,2829000,0.0,0.0,0.0,0.0,0.0
+420,Samsung,Samsung Galaxy A04S,Long Hưng Mobile,Đen,True,False,False,4GB,64GB,3990000,3499000,0.0,0.0,0.0,0.0,0.0
+421,Samsung,Samsung Galaxy A04S,Long Hưng Mobile,Xanh dương,True,False,False,4GB,64GB,3990000,3990000,0.0,0.0,0.0,0.0,0.0
+422,Samsung,Samsung Galaxy A04S,Long Hưng Mobile,,True,False,False,4GB,64GB,3990000,3499000,0.0,0.0,0.0,0.0,0.0
+423,Samsung,Samsung Galaxy A13,Long Hưng Mobile,Đen,True,False,False,8GB,128GB,4990000,3709000,0.0,0.0,0.0,1.0,3.0
+424,Samsung,Samsung Galaxy A23,Long Hưng Mobile,Cam,True,False,False,8GB,128GB,5690000,4509000,0.0,0.0,0.0,0.0,0.0
+425,Samsung,Samsung Galaxy A23,Long Hưng Mobile,Đen,True,False,False,8GB,128GB,5690000,4509000,0.0,0.0,0.0,0.0,0.0
+426,Samsung,Samsung Galaxy A23,Long Hưng Mobile,Xanh,True,False,False,8GB,128GB,5690000,4509000,0.0,0.0,0.0,0.0,0.0
+427,Samsung,Samsung Galaxy A33 5G,Long Hưng Mobile,Xanh,True,False,False,8GB,128GB,8490000,6209000,0.0,0.0,0.0,0.0,0.0
+428,Samsung,Samsung Galaxy A53 5G,Long Hưng Mobile,Đen,True,False,False,8GB,128GB,9990000,7739000,0.0,0.0,0.0,1.0,3.0
+429,Samsung,Samsung Galaxy A53 5G,Long Hưng Mobile,Cam,True,False,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,0.0,0.0
+430,Samsung,Samsung Galaxy A73 5G,Long Hưng Mobile,Xanh,True,False,False,8GB,128GB,11000000,11990000,0.0,0.0,0.0,0.0,1.0
+431,Samsung,Samsung Galaxy S21 FE 5G,Long Hưng Mobile,Đen,True,False,False,8GB,8GB,15990000,14059000,0.0,0.0,0.0,0.0,0.0
+432,Samsung,Samsung Galaxy S21 FE 5G,Long Hưng Mobile,Tím,True,False,False,8GB,8GB,15990000,18990000,0.0,0.0,0.0,0.0,0.0
+433,Samsung,Samsung Galaxy S22+,Long Hưng Mobile,Đen,True,False,False,8GB,128GB,25990000,22109000,0.0,0.0,0.0,0.0,0.0
+434,Tecno,Tecno Spark 7T,Long Hưng Mobile,Xanh,True,False,False,4GB,64GB,3469000,2779000,0.0,0.0,0.0,0.0,0.0
+435,Tecno,Tecno Spark 7T,Long Hưng Mobile,Xanh,True,False,False,4GB,64GB,3469000,2779000,0.0,0.0,0.0,0.0,0.0
+436,Vivo,Vivo T1X,Long Hưng Mobile,Xanh,True,False,False,4GB,64GB,4490000,4490000,0.0,0.0,0.0,0.0,0.0
+437,Vivo,Vivo T1X,Long Hưng Mobile,Đen,True,False,False,4GB,64GB,4490000,4229000,0.0,0.0,0.0,0.0,0.0
+438,Vivo,Vivo V23E,Long Hưng Mobile,,True,False,False,8GB,128GB,8490000,5539000,0.0,0.0,0.0,0.0,3.0
+439,Vivo,Vivo Y02S,Long Hưng Mobile,Xanh,True,False,False,3GB,32GB,3490000,3279000,0.0,0.0,0.0,0.0,0.0
+440,Vivo,Vivo Y33S,Long Hưng Mobile,Xanh,True,False,False,8GB,128GB,6990000,5990000,0.0,0.0,0.0,0.0,0.0
+441,Vivo,Vivo Y33S,Long Hưng Mobile,Đen,True,False,False,8GB,128GB,6990000,5939000,0.0,0.0,0.0,0.0,0.0
+442,Xiaomi,Xiaomi Redmi 10,Long Hưng Mobile,Xám,True,False,False,8GB,128GB,4290000,3609000,0.0,0.0,0.0,0.0,8.0
+443,Xiaomi,Xiaomi Redmi 10,Long Hưng Mobile,Trắng,True,False,False,8GB,128GB,4290000,3609000,0.0,0.0,0.0,1.0,4.0
+444,Xiaomi,Xiaomi Redmi 10,Long Hưng Mobile,Xanh,True,False,False,8GB,128GB,4290000,3689000,0.0,0.0,0.0,1.0,10.0
+445,Xiaomi,Xiaomi Redmi 10A,Long Hưng Mobile,,True,False,False,2GB,32GB,2890000,2369000,0.0,0.0,0.0,0.0,0.0
+446,Xiaomi,Xiaomi Redmi 10A,Long Hưng Mobile,Bạc,True,False,False,2GB,32GB,2890000,2369000,0.0,0.0,0.0,0.0,0.0
+447,Xiaomi,Xiaomi Redmi 10A,Long Hưng Mobile,Xám,True,False,False,2GB,32GB,2890000,2369000,0.0,0.0,0.0,0.0,0.0
+448,Xiaomi,Xiaomi Redmi 10C,Long Hưng Mobile,Xám,True,False,False,8GB,128GB,3890000,3299000,0.0,0.0,0.0,0.0,3.0
+449,Xiaomi,Xiaomi Redmi 10C,Long Hưng Mobile,Xám,True,False,False,8GB,128GB,3890000,3299000,0.0,0.0,0.0,0.0,3.0
+450,Xiaomi,Xiaomi Redmi A1,Long Hưng Mobile,Đen,True,False,False,2GB,32GB,2490000,1989000,0.0,0.0,0.0,0.0,0.0
+451,Xiaomi,Xiaomi Redmi Note 11,Long Hưng Mobile,Xám,True,False,False,8GB,128GB,6490000,4229000,0.0,0.0,0.0,0.0,0.0
+452,Xiaomi,Xiaomi Redmi Note 11,Long Hưng Mobile,Xám,True,False,False,8GB,128GB,6490000,4229000,0.0,0.0,0.0,0.0,0.0
+453,Xiaomi,Xiaomi Redmi Note 11,Long Hưng Mobile,Xanh Dương,True,False,False,8GB,128GB,6490000,4990000,0.0,0.0,0.0,0.0,0.0
+454,Xiaomi,Xiaomi Redmi Note 11,Long Hưng Mobile,Xanh Dương,True,False,False,8GB,128GB,6490000,4990000,0.0,0.0,0.0,0.0,0.0
+455,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,Long Hưng Mobile,Xám,True,False,False,8GB,128GB,8990000,7859000,0.0,0.0,0.0,0.0,1.0
+456,Xiaomi,Xiaomi Redmi Note 11S,Long Hưng Mobile,Trắng,True,False,False,8GB,128GB,6690000,5759000,0.0,0.0,0.0,0.0,0.0
+457,Xiaomi,Xiaomi Redmi Note 11S,Long Hưng Mobile,Xanh Dương,True,False,False,8GB,128GB,6690000,5759000,0.0,0.0,0.0,0.0,2.0
+458,Xiaomi,Xiaomi Redmi Note 11S,Long Hưng Mobile,Xám,True,False,False,8GB,128GB,6690000,5759000,0.0,0.0,0.0,0.0,6.0
+459,Nokia,Nokia C20,Nokia Mobile,,True,False,False,6GB,16GB,2290000,1790000,0.0,0.0,0.0,0.0,1.0
+460,Nokia,Nokia C20,Nokia Mobile,Xanh,True,False,False,6GB,16GB,2290000,1990000,0.0,0.0,0.0,0.0,1.0
+461,Nokia,Nokia C20 Blue,Nokia Mobile,Blue,True,False,False,2GB,16GB,1790000,1790000,0.0,0.0,0.0,0.0,1.0
+462,Nokia,Nokia C20 Blue,Nokia Mobile,Blue,True,False,False,2GB,16GB,1790000,1790000,0.0,0.0,0.0,0.0,1.0
+463,Nokia,Nokia C30,Nokia Mobile,Xanh,True,False,False,2GB,32GB,1990000,2090000,0.0,0.0,0.0,1.0,20.0
+464,Nokia,Nokia G11 Plus,Nokia Mobile,Xám,True,False,False,3GB,32GB/64GB,3390000,3590000,0.0,0.0,0.0,0.0,0.0
+465,Nokia,Nokia G11 Plus,Nokia Mobile,,True,False,False,3GB,32GB/64GB,3390000,3590000,0.0,0.0,0.0,0.0,0.0
+466,Nokia,Nokia G11 Plus,Nokia Mobile,Xám,True,False,False,3GB,32GB/64GB,3390000,3390000,0.0,0.0,0.0,0.0,0.0
+467,Nokia,Nokia G11 Plus,Nokia Mobile,,True,False,False,3GB,32GB/64GB,3390000,3390000,0.0,0.0,0.0,0.0,0.0
+468,Nokia,Nokia C21 Plus,Phương Tùng,Xám,True,False,False,2GB,32GB,2590000,2790000,0.0,0.0,0.0,0.0,0.0
+469,Nokia,Nokia C21 Plus,Phương Tùng,Xám,True,False,False,2GB,32GB,2590000,2790000,0.0,0.0,0.0,0.0,0.0
+470,Nokia,Nokia C21 Plus,Phương Tùng,Xanh,True,False,False,2GB,32GB,2590000,2540000,0.0,0.0,0.0,0.0,0.0
+471,Nokia,Nokia C21 Plus,Phương Tùng,Xanh,True,False,False,2GB,32GB,2590000,2540000,0.0,0.0,0.0,0.0,0.0
+472,Nokia,Nokia C21 Plus,Phương Tùng,Xám,True,False,False,2GB,32GB,2590000,2890000,0.0,0.0,0.0,0.0,0.0
+473,Nokia,Nokia C21 Plus,Phương Tùng,Xám,True,False,False,2GB,32GB,2590000,2890000,0.0,0.0,0.0,0.0,0.0
+474,Nokia,Nokia C21 Plus,Phương Tùng,Xanh,True,False,False,2GB,32GB,2590000,2640000,0.0,0.0,0.0,0.0,0.0
+475,Nokia,Nokia C21 Plus,Phương Tùng,Xanh,True,False,False,2GB,32GB,2590000,2640000,0.0,0.0,0.0,0.0,0.0
+476,Nokia,Nokia C21 Plus,Phương Tùng,Xanh,True,False,False,2GB,32GB,2590000,2999000,0.0,0.0,0.0,0.0,0.0
+477,Nokia,Nokia C21 Plus,Phương Tùng,Xanh,True,False,False,2GB,32GB,2590000,2999000,0.0,0.0,0.0,0.0,0.0
+478,Nokia,Nokia C21 Plus,Phương Tùng,Xám,True,False,False,2GB,32GB,2590000,2999000,0.0,0.0,0.0,0.0,0.0
+479,Nokia,Nokia C21 Plus,Phương Tùng,Xám,True,False,False,2GB,32GB,2590000,2999000,0.0,0.0,0.0,0.0,0.0
+480,Nokia,Nokia C30,Phương Tùng,Xanh,True,False,False,2GB,32GB,1990000,2750000,0.0,0.0,0.0,0.0,0.0
+481,Nokia,Nokia C31,Phương Tùng,Xanh,True,False,False,8GB,128GB,3690000,3690000,0.0,0.0,0.0,0.0,0.0
+482,Nokia,Nokia C31,Phương Tùng,Xanh,True,False,False,8GB,128GB,3690000,3690000,0.0,0.0,0.0,0.0,0.0
+483,Nokia,Nokia G11 Plus,Phương Tùng,Xanh,True,False,False,3GB,32GB/64GB,3390000,3390000,0.0,0.0,0.0,0.0,0.0
+484,Nokia,Nokia G11 Plus,Phương Tùng,Xanh,True,False,False,3GB,32GB/64GB,3390000,3390000,0.0,0.0,0.0,0.0,0.0
+485,Nokia,Nokia G11 Plus,Phương Tùng,Xám,True,False,False,3GB,32GB/64GB,3390000,3390000,0.0,0.0,0.0,0.0,0.0
+486,Nokia,Nokia G11 Plus,Phương Tùng,Xám,True,False,False,3GB,32GB/64GB,3390000,3390000,0.0,0.0,0.0,0.0,0.0
+487,Nokia,Nokia G11 Plus,Phương Tùng,Xám,True,False,False,3GB,32GB/64GB,3390000,3390000,0.0,0.0,0.0,0.0,0.0
+488,Nokia,Nokia G11 Plus,Phương Tùng,Xám,True,False,False,3GB,32GB/64GB,3390000,3390000,0.0,0.0,0.0,0.0,0.0
+489,Nokia,Nokia G21,Phương Tùng,Tím,True,False,False,4GB,128GB,3990000,3790000,0.0,0.0,0.0,0.0,0.0
+490,Nokia,Nokia G21,Phương Tùng,Tím,True,False,False,4GB,128GB,3990000,3790000,0.0,0.0,0.0,0.0,0.0
+491,OPPO,Oppo A57,Phương Tùng,Đen,True,False,False,4GB,64GB,4490000,4290000,0.0,0.0,0.0,0.0,0.0
+492,OPPO,Oppo A76,Phương Tùng,Xanh,True,False,False,6GB,128GB,5990000,5690000,0.0,0.0,0.0,0.0,0.0
+493,OPPO,Oppo A76,Phương Tùng,Đen,True,False,False,6GB,128GB,5990000,5690000,0.0,0.0,0.0,0.0,0.0
+494,OPPO,Oppo A95,Phương Tùng,Đen,True,False,False,8GB,128GB,6990000,5990000,0.0,0.0,0.0,0.0,0.0
+495,OPPO,Oppo A96,Phương Tùng,Đen,True,False,False,8GB,8GB,6990000,6690000,0.0,0.0,0.0,0.0,0.0
+496,OPPO,Oppo A96,Phương Tùng,Đen,True,False,False,8GB,8GB,6990000,6690000,0.0,0.0,0.0,0.0,0.0
+497,Realme,Realme C11 2021,Phương Tùng,Xám,True,False,False,2GB,32GB,2990000,2490000,0.0,0.0,0.0,0.0,0.0
+498,Realme,Realme C11 2021,Phương Tùng,Xám,True,False,False,2GB,32GB,2990000,2490000,0.0,0.0,0.0,0.0,0.0
+499,Realme,Realme C11 2021,Phương Tùng,Xanh Dương,True,False,False,2GB,32GB,2990000,2490000,0.0,0.0,0.0,0.0,0.0
+500,Realme,Realme C11 2021,Phương Tùng,Xanh Dương,True,False,False,2GB,32GB,2990000,2490000,0.0,0.0,0.0,0.0,0.0
+501,Realme,Realme C21Y,Phương Tùng,Đen,True,False,False,4GB,,3890000,3690000,0.0,0.0,0.0,0.0,0.0
+502,Realme,Realme C21Y,Phương Tùng,Đen,True,False,False,4GB,,3890000,3690000,0.0,0.0,0.0,0.0,0.0
+503,Realme,Realme C21Y,Phương Tùng,Đen,True,False,False,4GB,,3890000,3690000,0.0,0.0,0.0,0.0,0.0
+504,Realme,Realme C21Y,Phương Tùng,Xanh,True,False,False,4GB,,3890000,3690000,0.0,0.0,0.0,0.0,0.0
+505,Realme,Realme C21Y,Phương Tùng,Xanh,True,False,False,4GB,,3890000,3690000,0.0,0.0,0.0,0.0,0.0
+506,Realme,Realme C21Y,Phương Tùng,Đen,True,False,False,4GB,,3890000,4290000,0.0,0.0,0.0,0.0,0.0
+507,Realme,Realme C21Y,Phương Tùng,Đen,True,False,False,4GB,,3890000,4290000,0.0,0.0,0.0,0.0,0.0
+508,Realme,Realme C21Y,Phương Tùng,Đen,True,False,False,4GB,,3890000,4290000,0.0,0.0,0.0,0.0,0.0
+509,Samsung,Samsung Galaxy A03,Phương Tùng,Đen,True,False,False,3GB,32GB,2990000,2990000,0.0,0.0,0.0,0.0,0.0
+510,Samsung,Samsung Galaxy A03,Phương Tùng,Đen,True,False,False,3GB,32GB,2990000,2990000,0.0,0.0,0.0,0.0,0.0
+511,Samsung,Samsung Galaxy A03,Phương Tùng,Đen,True,False,False,3GB,32GB,2990000,2990000,0.0,0.0,0.0,0.0,0.0
+512,Samsung,Samsung Galaxy A03,Phương Tùng,Xanh,True,False,False,3GB,32GB,2990000,2990000,0.0,0.0,0.0,0.0,0.0
+513,Samsung,Samsung Galaxy A03,Phương Tùng,Xanh,True,False,False,3GB,32GB,2990000,2990000,0.0,0.0,0.0,0.0,0.0
+514,Samsung,Samsung Galaxy A03,Phương Tùng,Xanh,True,False,False,3GB,32GB,2990000,2990000,0.0,0.0,0.0,0.0,0.0
+515,Samsung,Samsung Galaxy A03 Core,Phương Tùng,Đen,True,True,False,2GB,32GB,2590000,2290000,0.0,0.0,0.0,0.0,0.0
+516,Samsung,Samsung Galaxy A03 Core,Phương Tùng,Đen,True,True,False,2GB,32GB,2590000,2290000,0.0,0.0,0.0,0.0,0.0
+517,Samsung,Samsung Galaxy A03 Core,Phương Tùng,Đen,True,True,False,2GB,32GB,2590000,2290000,0.0,0.0,0.0,0.0,0.0
+518,Samsung,Samsung Galaxy A03 Core,Phương Tùng,Xanh,True,True,False,2GB,32GB,2590000,2290000,0.0,0.0,0.0,0.0,0.0
+519,Samsung,Samsung Galaxy A03 Core,Phương Tùng,Xanh,True,True,False,2GB,32GB,2590000,2290000,0.0,0.0,0.0,0.0,0.0
+520,Samsung,Samsung Galaxy A03S,Phương Tùng,Đen,True,True,False,4GB,54GB,3690000,3690000,0.0,0.0,0.0,0.0,0.0
+521,Samsung,Samsung Galaxy A03S,Phương Tùng,Đen,True,True,False,4GB,54GB,3690000,3690000,0.0,0.0,0.0,0.0,0.0
+522,Samsung,Samsung Galaxy A13,Phương Tùng,Đen,True,True,False,8GB,128GB,4990000,4190000,0.0,0.0,0.0,0.0,0.0
+523,Samsung,Samsung Galaxy A13,Phương Tùng,Đen,True,True,False,8GB,128GB,4990000,4190000,0.0,0.0,0.0,0.0,0.0
+524,Samsung,Samsung Galaxy A13,Phương Tùng,Xanh,True,True,False,8GB,128GB,4990000,4190000,0.0,0.0,0.0,0.0,0.0
+525,Samsung,Samsung Galaxy A13,Phương Tùng,Xanh,True,True,False,8GB,128GB,4990000,4190000,0.0,0.0,0.0,0.0,0.0
+526,Samsung,Samsung Galaxy A13,Phương Tùng,Xanh,True,True,False,8GB,128GB,4990000,4190000,0.0,0.0,0.0,0.0,0.0
+527,Samsung,Samsung Galaxy A22,Phương Tùng,Xanh,True,True,False,8GB,103GB,5490000,4990000,0.0,0.0,0.0,0.0,0.0
+528,Samsung,Samsung Galaxy A23,Phương Tùng,Đen,True,True,False,8GB,128GB,5690000,5690000,0.0,0.0,0.0,0.0,0.0
+529,Samsung,Samsung Galaxy A23,Phương Tùng,Đen,True,True,False,8GB,128GB,5690000,5690000,0.0,0.0,0.0,0.0,0.0
+530,Samsung,Samsung Galaxy A23,Phương Tùng,Đen,True,True,False,8GB,128GB,5690000,5690000,0.0,0.0,0.0,0.0,0.0
+531,Samsung,Samsung Galaxy A52,Phương Tùng,Xanh,True,False,False,,,9290000,9290000,0.0,0.0,0.0,0.0,0.0
+532,Samsung,Samsung Galaxy A52,Phương Tùng,Đen,True,False,False,,,9290000,9290000,0.0,0.0,0.0,0.0,0.0
+533,Samsung,Samsung Galaxy A53 5G,Phương Tùng,Đen,True,False,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,0.0,0.0
+534,Samsung,Samsung Galaxy A53 5G,Phương Tùng,Đen,True,False,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,0.0,0.0
+535,Samsung,Samsung Galaxy A53 5G,Phương Tùng,Cam,True,False,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,0.0,0.0
+536,Samsung,Samsung Galaxy A53 5G,Phương Tùng,Xanh,True,False,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,0.0,0.0
+537,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Xám,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+538,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Xám,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+539,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Xám,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+540,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Bạc,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+541,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Bạc,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+542,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Bạc,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+543,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Xanh,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+544,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Xanh,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+545,Xiaomi,Xiaomi Redmi 10A,Phương Tùng,Xanh,True,False,False,2GB,32GB,2890000,2890000,0.0,0.0,0.0,0.0,0.0
+546,Xiaomi,Xiaomi Redmi Note 11S,Phương Tùng,Xám,True,False,False,8GB,128GB,6690000,6690000,0.0,0.0,0.0,0.0,0.0
+547,Xiaomi,Xiaomi Redmi Note 11S,Phương Tùng,Xám,True,False,False,8GB,128GB,6690000,6690000,0.0,0.0,0.0,0.0,0.0
+548,Xiaomi,Xiaomi Redmi Note 11S,Phương Tùng,Xanh Dương,True,False,False,8GB,128GB,6690000,6690000,0.0,0.0,0.0,0.0,0.0
+549,Xiaomi,Xiaomi Redmi Note 11S,Phương Tùng,Xanh Dương,True,False,False,8GB,128GB,6690000,6690000,0.0,0.0,0.0,0.0,0.0
+550,Nokia,Nokia C21 Plus,Viễn Tin Sài Gòn,Xanh dương,True,False,False,2GB,32GB,2590000,2890000,0.0,0.0,0.0,0.0,0.0
+551,Nokia,Nokia C21 Plus,Viễn Tin Sài Gòn,Xám,True,False,False,2GB,32GB,2590000,2890000,0.0,0.0,0.0,0.0,0.0
+552,Nokia,Nokia G10,Viễn Tin Sài Gòn,Xanh,True,False,False,4GB,64GB,2890000,2890000,1.0,0.0,0.0,1.0,3.0
+553,Vivo,Vivo Y15S,Viễn Tin Sài Gòn,Xanh,True,False,False,3GB,32GB,3490000,2790000,0.0,0.0,0.0,0.0,0.0
+554,Xiaomi,Xiaomi Redmi 10A Box,Viễn Tin Sài Gòn,Xám,True,False,False,2GB,32GB,2590000,2320000,0.0,0.0,0.0,0.0,0.0
+555,Xiaomi,Xiaomi Redmi 10A Box,Viễn Tin Sài Gòn,Xám,True,False,False,2GB,32GB,2590000,2320000,0.0,0.0,0.0,0.0,0.0
+556,Xiaomi,Xiaomi Redmi 10A Box,Viễn Tin Sài Gòn,Xanh dương,True,False,False,2GB,32GB,2590000,2320000,0.0,0.0,0.0,0.0,0.0
+557,Nubia,Nubia Redmagic 6R,MiSun Store,,False,False,True,,,15990000,15990000,0.0,0.0,0.0,0.0,0.0
+558,Nubia,Nubia Redmagic 6R,MiSun Store,,False,False,True,,,15990000,15990000,0.0,0.0,0.0,0.0,0.0
+559,Tecno,Tecno Pova 2,MiSun Store,Xanh,True,False,False,4GB,64GB,4290000,3490000,0.0,0.0,0.0,0.0,3.0
+560,Tecno,Tecno Pova 2,MiSun Store,Xanh,True,False,False,4GB,64GB,4290000,3490000,0.0,0.0,0.0,0.0,3.0
+561,Tecno,Tecno Pova 3,MiSun Store,Xanh,True,False,False,11GB,128GB,4990000,4250000,0.0,0.0,0.0,0.0,0.0
+562,Tecno,Tecno Spark 8C,MiSun Store,,True,False,False,3GB,64GB,2480000,2590000,0.0,0.0,0.0,0.0,0.0
+563,Tecno,Tecno Spark 8C,MiSun Store,,True,False,False,3GB,64GB,2480000,2590000,0.0,0.0,0.0,0.0,0.0
+564,Xiaomi,Xiaomi Redmi Note 11 B,MiSun Store,,False,False,False,4GB/6GB,128GB,5690000,4090000,0.0,0.0,0.0,0.0,3.0
+565,Xiaomi,Xiaomi X4 Pro 5G,MiSun Store,Đen,False,False,False,6GB/8GB,128GB/256GB,8990000,5890000,0.0,0.0,0.0,0.0,1.0
+566,Xiaomi,Xiaomi X4 Pro 5G,MiSun Store,Xanh,False,False,False,6GB/8GB,128GB/256GB,8990000,6890000,0.0,0.0,0.0,0.0,0.0
+567,Nubia,Nubia Redmagic 6S Pro,RedMagic Official,,True,False,False,8GB,256GB,17990000,15490000,0.0,0.0,0.0,0.0,0.0
+568,Nubia,Phone Redmagic 6R 5G,RedMagic Official,Đen,True,False,False,8GB,128GB,15990000,8990000,0.0,0.0,0.0,0.0,2.0
+569,Nubia,Phone Redmagic 6R 5G,RedMagic Official,Bạc,True,False,False,8GB,128GB,15990000,12990000,0.0,0.0,0.0,0.0,1.0
+570,Redmagic,Redmagic 7,RedMagic Official,,True,False,False,,,18990000,18990000,0.0,0.0,0.0,0.0,0.0
+571,Redmagic,Redmagic 7,RedMagic Official,,True,False,False,,,18990000,17490000,0.0,0.0,0.0,0.0,0.0
+572,Redmagic,Redmagic 7,RedMagic Official,,True,False,False,,,18990000,18990000,0.0,0.0,0.0,0.0,0.0
+573,OPPO,Oppo A16K,OPPO Official Store,Đen,True,False,False,4GB,64GB,3790000,4290000,0.0,0.0,0.0,0.0,1.0
+574,OPPO,Oppo A16K,OPPO Official Store,Trắng,True,False,False,4GB,64GB,3790000,4290000,0.0,0.0,0.0,0.0,0.0
+575,OPPO,Oppo A16K,OPPO Official Store,Đen,True,False,False,4GB,64GB,3790000,3290000,0.0,0.0,0.0,0.0,0.0
+576,OPPO,Oppo A55,OPPO Official Store,Xanh,True,False,False,4GB,64GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+577,OPPO,Oppo A55,OPPO Official Store,Xanh,True,False,False,4GB,64GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+578,OPPO,Oppo A55,OPPO Official Store,Xanh,True,False,False,4GB,64GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+579,OPPO,Oppo A55,OPPO Official Store,Đen,True,False,False,4GB,64GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+580,OPPO,Oppo A55,OPPO Official Store,Đen,True,False,False,4GB,64GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+581,OPPO,Oppo A55,OPPO Official Store,Đen,True,False,False,4GB,64GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+582,OPPO,Oppo A55,OPPO Official Store,Đen,True,False,False,4GB,64GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+583,OPPO,Oppo A57,OPPO Official Store,Xanh,True,False,False,4GB,64GB,4490000,4990000,0.0,0.0,0.0,0.0,0.0
+584,OPPO,Oppo Reno7 4G,OPPO Official Store,Cam,True,False,False,8GB,128GB,8990000,8990000,0.0,0.0,0.0,0.0,0.0
+585,OPPO,Oppo Reno7 4G,OPPO Official Store,Đen,True,False,False,8GB,128GB,8990000,8990000,0.0,0.0,0.0,0.0,0.0
+586,OPPO,Oppo Reno7 5G,OPPO Official Store,Đen,True,False,False,8GB,256GB,12990000,12990000,0.0,0.0,0.0,0.0,0.0
+587,OPPO,Oppo Reno7 5G,OPPO Official Store,Xanh,True,False,False,8GB,256GB,12990000,12990000,0.0,0.0,0.0,0.0,0.0
+588,OPPO,Oppo Reno7 Z 5G,OPPO Official Store,Đen,True,False,False,,128GB,10990000,10490000,0.0,0.0,0.0,0.0,0.0
+589,OPPO,Oppo Reno8 4G,OPPO Official Store,Đen,True,False,False,8GB,256GB,8990000,8990000,0.0,0.0,0.0,0.0,0.0
+590,OPPO,Oppo Reno8 4G,OPPO Official Store,Đen,True,False,False,8GB,256GB,8990000,8990000,0.0,0.0,0.0,0.0,0.0
+591,OPPO,Oppo Reno8 4G,OPPO Official Store,Vàng,True,False,False,8GB,256GB,8990000,8990000,0.0,0.0,0.0,0.0,0.0
+592,OPPO,Oppo Reno8 4G,OPPO Official Store,Vàng,True,False,False,8GB,256GB,8990000,8990000,0.0,0.0,0.0,0.0,0.0
+593,OPPO,Oppo Reno8 5G,OPPO Official Store,Vàng,True,False,False,8GB,256GB,13990000,13990000,0.0,0.0,0.0,0.0,1.0
+594,OPPO,Oppo Reno8 5G,OPPO Official Store,Đen,True,False,False,8GB,256GB,13990000,13990000,0.0,0.0,0.0,0.0,0.0
+595,OPPO,Oppo Reno8 Z 5G,OPPO Official Store,Vàng,True,False,False,8GB,256GB,10490000,10490000,0.0,0.0,0.0,0.0,0.0
+596,OPPO,Oppo Reno8 Z 5G,OPPO Official Store,Vàng,True,False,False,8GB,256GB,10490000,10490000,0.0,0.0,0.0,0.0,0.0
+597,OPPO,Oppo Reno8 Z 5G,OPPO Official Store,Đen,True,False,False,8GB,256GB,10490000,10490000,0.0,0.0,0.0,0.0,0.0
+598,OPPO,Oppo Reno8 Z 5G,OPPO Official Store,Đen,True,False,False,8GB,256GB,10490000,10490000,0.0,0.0,0.0,0.0,0.0
+599,OPPO,Oppo A16K,MediaMart Official Store,Xanh,True,False,False,4GB,64GB,3790000,2790000,0.0,0.0,0.0,0.0,0.0
+600,OPPO,Oppo A16K,MediaMart Official Store,Xanh,True,False,False,4GB,64GB,3790000,2790000,0.0,0.0,0.0,0.0,0.0
+601,Samsung,Samsung Galaxy A03S,MediaMart Official Store,Xanh,True,False,False,4GB,54GB,3690000,3690000,0.0,0.0,0.0,0.0,0.0
+602,Samsung,Samsung Galaxy A03S,MediaMart Official Store,Xanh,True,False,False,4GB,54GB,3690000,3690000,0.0,0.0,0.0,0.0,0.0
+603,Samsung,Samsung Galaxy A03S,MediaMart Official Store,Xanh,True,False,False,4GB,54GB,3690000,3690000,0.0,0.0,0.0,0.0,0.0
+604,Samsung,Samsung Galaxy A03S,MediaMart Official Store,Xanh,True,False,False,4GB,54GB,3690000,3690000,0.0,0.0,0.0,0.0,0.0
+605,OPPO,Oppo A55,Viettel Store Official,Đen,True,False,False,4GB,64GB,4990000,3990000,0.0,0.0,0.0,0.0,0.0
+606,Samsung,Samsung Galaxy A33 5G,Viettel Store Official,Đen,True,False,False,8GB,128GB,8490000,7290000,0.0,0.0,0.0,0.0,0.0
+607,Samsung,Samsung Galaxy A33 5G,Viettel Store Official,,True,False,False,8GB,128GB,8490000,7290000,0.0,0.0,0.0,0.0,0.0
+608,Samsung,Samsung Galaxy A33 5G,Viettel Store Official,Xanh Dương,True,False,False,8GB,128GB,8490000,7290000,0.0,0.0,0.0,0.0,0.0
+609,Samsung,Samsung Galaxy A53 5G,Viettel Store Official,Xanh Dương,True,False,False,8GB,128GB,9990000,8590000,0.0,0.0,0.0,0.0,0.0
+610,Samsung,Samsung Galaxy A73 5G,Viettel Store Official,,True,False,False,8GB,128GB,11000000,10490000,0.0,0.0,0.0,0.0,0.0
+611,Xiaomi,Xiaomi Redmi 10 5G,Viettel Store Official,Xám,True,False,False,,,4790000,4790000,0.0,0.0,0.0,0.0,0.0
+612,Xiaomi,Xiaomi Redmi 10 5G,Viettel Store Official,Xám,True,False,False,,,4790000,4090000,0.0,0.0,0.0,0.0,0.0
+613,Xiaomi,Xiaomi Redmi 10C,Viettel Store Official,Xanh Dương,True,False,False,8GB,128GB,3890000,3210000,0.0,0.0,0.0,0.0,0.0
+614,Xiaomi,Xiaomi Redmi A1,Viettel Store Official,Đen,True,False,False,2GB,32GB,2490000,2190000,0.0,0.0,0.0,0.0,0.0
+615,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,Viettel Store Official,Xám,True,False,False,8GB,128GB,8990000,8050000,0.0,0.0,0.0,0.0,0.0
+616,OPPO,Oppo A55,Nguyễn Kim Official,Đen,True,False,False,4GB,64GB,4990000,3890000,0.0,0.0,0.0,0.0,0.0
+617,OPPO,Oppo A55,Nguyễn Kim Official,Đen,True,False,False,4GB,64GB,4990000,3890000,0.0,0.0,0.0,0.0,0.0
+618,Samsung,Samsung Galaxy A03,Nguyễn Kim Official,Đỏ,True,False,False,3GB,32GB,2990000,2290000,0.0,0.0,0.0,0.0,1.0
+619,Samsung,Samsung Galaxy A03,Nguyễn Kim Official,Đỏ,True,False,False,3GB,32GB,2990000,2290000,0.0,0.0,0.0,0.0,1.0
+620,Samsung,Samsung Galaxy A03,Nguyễn Kim Official,Đỏ,True,False,False,3GB,32GB,2990000,2290000,0.0,0.0,0.0,0.0,1.0
+621,Samsung,Samsung Galaxy A03,Nguyễn Kim Official,Đỏ,True,False,False,3GB,32GB,2990000,2290000,0.0,0.0,0.0,0.0,1.0
+622,Samsung,Samsung Galaxy A03S,Nguyễn Kim Official,Xanh,True,False,False,4GB,54GB,3690000,3190000,0.0,0.0,0.0,0.0,0.0
+623,Samsung,Samsung Galaxy A03S,Nguyễn Kim Official,Xanh,True,False,False,4GB,54GB,3690000,3190000,0.0,0.0,0.0,0.0,0.0
+624,Samsung,Samsung Galaxy A03S,Nguyễn Kim Official,Xanh,True,False,False,4GB,54GB,3690000,3190000,0.0,0.0,0.0,0.0,0.0
+625,Samsung,Samsung Galaxy A13,Nguyễn Kim Official,Cam,True,False,False,8GB,128GB,4990000,3890000,0.0,0.0,0.0,0.0,0.0
+626,Samsung,Samsung Galaxy A13,Nguyễn Kim Official,Cam,True,False,False,8GB,128GB,4990000,3890000,0.0,0.0,0.0,0.0,0.0
+627,Samsung,Samsung Galaxy A13,Nguyễn Kim Official,Cam,True,False,False,8GB,128GB,4990000,3890000,0.0,0.0,0.0,0.0,0.0
+628,Samsung,Samsung Galaxy A13,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,4990000,3890000,0.0,0.0,0.0,0.0,0.0
+629,Samsung,Samsung Galaxy A13,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,4990000,3890000,0.0,0.0,0.0,0.0,0.0
+630,Samsung,Samsung Galaxy A23,Nguyễn Kim Official,Cam,True,False,False,8GB,128GB,5690000,4790000,0.0,0.0,0.0,0.0,0.0
+631,Samsung,Samsung Galaxy A23,Nguyễn Kim Official,Cam,True,False,False,8GB,128GB,5690000,4790000,0.0,0.0,0.0,0.0,0.0
+632,Samsung,Samsung Galaxy A23,Nguyễn Kim Official,Cam,True,False,False,8GB,128GB,5690000,4790000,0.0,0.0,0.0,0.0,0.0
+633,Samsung,Samsung Galaxy A23,Nguyễn Kim Official,Cam,True,False,False,8GB,128GB,5690000,4790000,0.0,0.0,0.0,0.0,0.0
+634,Samsung,Samsung Galaxy A23,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,5690000,4790000,0.0,0.0,0.0,0.0,0.0
+635,Samsung,Samsung Galaxy A23,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,5690000,4790000,0.0,0.0,0.0,0.0,0.0
+636,Samsung,Samsung Galaxy A23,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,5690000,4790000,0.0,0.0,0.0,0.0,0.0
+637,Samsung,Samsung Galaxy A33 5G,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,8490000,6490000,0.0,0.0,0.0,0.0,0.0
+638,Samsung,Samsung Galaxy A33 5G,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,8490000,6490000,0.0,0.0,0.0,0.0,0.0
+639,Samsung,Samsung Galaxy A33 5G,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,8490000,6490000,0.0,0.0,0.0,0.0,0.0
+640,Samsung,Samsung Galaxy A33 5G,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,8490000,6490000,0.0,0.0,0.0,0.0,0.0
+641,Samsung,Samsung Galaxy A53 5G,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,9990000,7690000,0.0,0.0,0.0,0.0,0.0
+642,Samsung,Samsung Galaxy A53 5G,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,9990000,7690000,0.0,0.0,0.0,0.0,0.0
+643,Samsung,Samsung Galaxy A73,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,11990000,9990000,0.0,0.0,0.0,0.0,0.0
+644,Samsung,Samsung Galaxy A73,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,11990000,9990000,0.0,0.0,0.0,0.0,0.0
+645,Samsung,Samsung Galaxy A73,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,11990000,9990000,0.0,0.0,0.0,0.0,0.0
+646,Samsung,Samsung Galaxy A73,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,11990000,9990000,0.0,0.0,0.0,0.0,0.0
+647,Samsung,Samsung Galaxy A73,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,11990000,9990000,0.0,0.0,0.0,0.0,0.0
+648,Samsung,Samsung Galaxy A73,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,11990000,9990000,0.0,0.0,0.0,0.0,0.0
+649,Samsung,Samsung Galaxy A73,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,11990000,9990000,0.0,0.0,0.0,0.0,0.0
+650,Samsung,Samsung Galaxy S22 Ultra,Nguyễn Kim Official,Đen,True,False,False,2GB,512GB,34990000,23490000,0.0,0.0,0.0,0.0,0.0
+651,Samsung,Samsung Galaxy S22 Ultra,Nguyễn Kim Official,Đen,True,False,False,2GB,512GB,34990000,23490000,0.0,0.0,0.0,0.0,0.0
+652,Samsung,Samsung Galaxy S22 Ultra,Nguyễn Kim Official,Trắng,True,False,False,2GB,512GB,34990000,23490000,0.0,0.0,0.0,0.0,0.0
+653,Samsung,Samsung Galaxy S22 Ultra,Nguyễn Kim Official,Trắng,True,False,False,2GB,512GB,34990000,23490000,0.0,0.0,0.0,0.0,0.0
+654,Samsung,Samsung Galaxy Z Flip4 5G,Nguyễn Kim Official,Vàng,True,False,False,8GB,128GB,23990000,21490000,0.0,0.0,0.0,0.0,0.0
+655,Samsung,Samsung Galaxy Z Flip4 5G,Nguyễn Kim Official,Vàng,True,False,False,8GB,128GB,23990000,21490000,0.0,0.0,0.0,0.0,0.0
+656,Samsung,Samsung Galaxy Z Flip4 5G,Nguyễn Kim Official,Vàng,True,False,False,8GB,128GB,23990000,21490000,0.0,0.0,0.0,0.0,0.0
+657,Samsung,Samsung Galaxy Z Flip4 5G,Nguyễn Kim Official,Vàng,True,False,False,8GB,128GB,23990000,21490000,0.0,0.0,0.0,0.0,0.0
+658,Samsung,Samsung Galaxy Z Flip4 5G,Nguyễn Kim Official,Vàng,True,False,False,8GB,128GB,23990000,21490000,0.0,0.0,0.0,0.0,0.0
+659,Samsung,Samsung Galaxy Z Flip4 5G,Nguyễn Kim Official,Vàng,True,False,False,8GB,128GB,23990000,21490000,0.0,0.0,0.0,0.0,0.0
+660,Samsung,Samsung Galaxy Z Fold4 5G,Nguyễn Kim Official,Xám,True,False,False,6GB,256GB,40990000,35990000,0.0,0.0,0.0,0.0,0.0
+661,Samsung,Samsung Galaxy Z Fold4 5G,Nguyễn Kim Official,Xám,True,False,False,6GB,256GB,40990000,35990000,0.0,0.0,0.0,0.0,0.0
+662,Samsung,Samsung Galaxy Z Fold4 5G,Nguyễn Kim Official,Kem,True,False,False,6GB,256GB,40990000,39490000,0.0,0.0,0.0,0.0,0.0
+663,Samsung,Samsung Galaxy Z Fold4 5G,Nguyễn Kim Official,Kem,True,False,False,6GB,256GB,40990000,39490000,0.0,0.0,0.0,0.0,0.0
+664,Samsung,Samsung Galaxy Z Fold4 5G,Nguyễn Kim Official,Kem,True,False,False,6GB,256GB,40990000,39490000,0.0,0.0,0.0,0.0,0.0
+665,Samsung,Samsung Galaxy Z Fold4 5G,Nguyễn Kim Official,Kem,True,False,False,6GB,256GB,40990000,39490000,0.0,0.0,0.0,0.0,0.0
+666,Vivo,Vivo V23E,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,8490000,5990000,0.0,0.0,0.0,0.0,0.0
+667,Vivo,Vivo V23E,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,8490000,5990000,0.0,0.0,0.0,0.0,0.0
+668,Vivo,Vivo V23E,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,8490000,5990000,0.0,0.0,0.0,0.0,0.0
+669,Vivo,Vivo V23E,Nguyễn Kim Official,Đen,True,False,False,8GB,128GB,8490000,5990000,0.0,0.0,0.0,0.0,0.0
+670,Vivo,Vivo Y15S,Nguyễn Kim Official,Đen,True,False,False,3GB,32GB,3490000,2750000,0.0,0.0,0.0,0.0,0.0
+671,Vivo,Vivo Y15S,Nguyễn Kim Official,Đen,True,False,False,3GB,32GB,3490000,2750000,0.0,0.0,0.0,0.0,0.0
+672,Vivo,Vivo Y15S,Nguyễn Kim Official,Đen,True,False,False,3GB,32GB,3490000,2750000,0.0,0.0,0.0,0.0,0.0
+673,Vivo,Vivo Y15S,Nguyễn Kim Official,Xanh,True,False,False,3GB,32GB,3490000,2750000,0.0,0.0,0.0,0.0,0.0
+674,Vivo,Vivo Y15S,Nguyễn Kim Official,Xanh,True,False,False,3GB,32GB,3490000,2750000,0.0,0.0,0.0,0.0,0.0
+675,Vivo,Vivo Y21S,Nguyễn Kim Official,Trắng,True,False,False,8GB,128GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+676,Vivo,Vivo Y21S,Nguyễn Kim Official,Trắng,True,False,False,8GB,128GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+677,Vivo,Vivo Y21S,Nguyễn Kim Official,Trắng,True,False,False,8GB,128GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+678,Vivo,Vivo Y21S,Nguyễn Kim Official,Trắng,True,False,False,8GB,128GB,4990000,4490000,0.0,0.0,0.0,0.0,0.0
+679,Xiaomi,Xiaomi Redmi 10C,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,3890000,3280000,0.0,0.0,0.0,0.0,0.0
+680,Xiaomi,Xiaomi Redmi 10C,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,3890000,3280000,0.0,0.0,0.0,0.0,0.0
+681,Xiaomi,Xiaomi Redmi 10C,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,3890000,3280000,0.0,0.0,0.0,0.0,0.0
+682,Xiaomi,Xiaomi Redmi 10C,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,3890000,3280000,0.0,0.0,0.0,0.0,0.0
+683,Xiaomi,Xiaomi Redmi 9C,Nguyễn Kim Official,Tím,True,False,False,4GB,128GB,3490000,3090000,0.0,0.0,0.0,0.0,0.0
+684,Xiaomi,Xiaomi Redmi 9C,Nguyễn Kim Official,Tím,True,False,False,4GB,128GB,3490000,3090000,0.0,0.0,0.0,0.0,0.0
+685,Xiaomi,Xiaomi Redmi 9C,Nguyễn Kim Official,Xám,True,False,False,4GB,128GB,3490000,3090000,0.0,0.0,0.0,0.0,0.0
+686,Xiaomi,Xiaomi Redmi 9C,Nguyễn Kim Official,Xám,True,False,False,4GB,128GB,3490000,3090000,0.0,0.0,0.0,0.0,0.0
+687,Xiaomi,Xiaomi Redmi 9C,Nguyễn Kim Official,Xám,True,False,False,4GB,128GB,3490000,3090000,0.0,0.0,0.0,0.0,0.0
+688,Xiaomi,Xiaomi Redmi Note 11,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,6490000,3990000,0.0,0.0,0.0,0.0,0.0
+689,Xiaomi,Xiaomi Redmi Note 11,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,6490000,3990000,0.0,0.0,0.0,0.0,0.0
+690,Xiaomi,Xiaomi Redmi Note 11,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,6490000,3990000,0.0,0.0,0.0,0.0,0.0
+691,Xiaomi,Xiaomi Redmi Note 11,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,6490000,3990000,0.0,0.0,0.0,0.0,0.0
+692,Xiaomi,Xiaomi Redmi Note 11,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,6490000,3990000,0.0,0.0,0.0,0.0,0.0
+693,Xiaomi,Xiaomi Redmi Note 11,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,6490000,3990000,0.0,0.0,0.0,0.0,0.0
+694,Xiaomi,Xiaomi Redmi Note 11 Pro,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,7490000,6490000,0.0,0.0,0.0,0.0,0.0
+695,Xiaomi,Xiaomi Redmi Note 11 Pro,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,7490000,6490000,0.0,0.0,0.0,0.0,0.0
+696,Xiaomi,Xiaomi Redmi Note 11 Pro,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,7490000,6490000,0.0,0.0,0.0,0.0,0.0
+697,Xiaomi,Xiaomi Redmi Note 11 Pro,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,7490000,6490000,0.0,0.0,0.0,0.0,0.0
+698,Xiaomi,Xiaomi Redmi Note 11S,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,6690000,5650000,0.0,0.0,0.0,0.0,0.0
+699,Xiaomi,Xiaomi Redmi Note 11S,Nguyễn Kim Official,Xanh,True,False,False,8GB,128GB,6690000,5650000,0.0,0.0,0.0,0.0,0.0
+700,Xiaomi,Xiaomi Redmi Note 11S,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,6690000,5650000,0.0,0.0,0.0,0.0,0.0
+701,Xiaomi,Xiaomi Redmi Note 11S,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,6690000,5650000,0.0,0.0,0.0,0.0,0.0
+702,Xiaomi,Xiaomi Redmi Note 11S,Nguyễn Kim Official,Xám,True,False,False,8GB,128GB,6690000,5650000,0.0,0.0,0.0,0.0,0.0
+703,OPPO,Oppo A95,Điện Máy Tiện Lợi S52,Bạc,True,False,False,8GB,128GB,6990000,7030000,0.0,0.0,0.0,0.0,1.0
+704,OPPO,Oppo A95,Điện Máy Tiện Lợi S52,Đen,True,False,False,8GB,128GB,6990000,5878000,0.0,0.0,0.0,0.0,0.0
+705,OPPO,Oppo Reno7 4G,Điện Máy Tiện Lợi S52,,True,False,False,8GB,128GB,8990000,8990000,0.0,0.0,0.0,0.0,1.0
+706,Realme,Realme C21Y Caro,Điện Máy Tiện Lợi S52,Đen,True,False,False,2GB,32GB,3510000,3499000,0.0,0.0,0.0,0.0,0.0
+707,Realme,Realme C21Y Caro,Điện Máy Tiện Lợi S52,Đen,True,False,False,2GB,32GB,3510000,3499000,0.0,0.0,0.0,0.0,0.0
+708,Realme,Realme C21Y Caro,Điện Máy Tiện Lợi S52,Đen,True,False,False,2GB,32GB,3510000,3499000,0.0,0.0,0.0,0.0,0.0
+709,Samsung,Samsung Galaxy A22,Điện Máy Tiện Lợi S52,Xanh,True,False,False,8GB,103GB,5490000,5441000,0.0,0.0,0.0,0.0,1.0
+710,Samsung,Samsung Galaxy A22,Điện Máy Tiện Lợi S52,Đen,True,False,False,8GB,103GB,5490000,5441000,0.0,0.0,0.0,0.0,0.0
+711,Vivo,Vivo Y02S,Điện Máy Tiện Lợi S52,Đen,True,False,False,3GB,32GB,3490000,3394000,0.0,0.0,0.0,0.0,0.0
+712,Vivo,Vivo Y02S,Điện Máy Tiện Lợi S52,Đen,True,False,False,3GB,32GB,3490000,3394000,0.0,0.0,0.0,0.0,0.0
+713,Vivo,Vivo Y02S,Điện Máy Tiện Lợi S52,Đen,True,False,False,3GB,32GB,3490000,3394000,0.0,0.0,0.0,0.0,0.0
+714,Vivo,Vivo Y02S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,3GB,32GB,3490000,3394000,0.0,0.0,0.0,0.0,0.0
+715,Vivo,Vivo Y02S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,3GB,32GB,3490000,3394000,0.0,0.0,0.0,0.0,0.0
+716,Vivo,Vivo Y02S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,3GB,32GB,3490000,3394000,0.0,0.0,0.0,0.0,0.0
+717,Vivo,Vivo Y15S,Điện Máy Tiện Lợi S52,Đen,True,False,False,3GB,32GB,3490000,3490000,0.0,0.0,0.0,0.0,1.0
+718,Vivo,Vivo Y15S,Điện Máy Tiện Lợi S52,Đen,True,False,False,3GB,32GB,3490000,3490000,0.0,0.0,0.0,0.0,1.0
+719,Vivo,Vivo Y15S,Điện Máy Tiện Lợi S52,Đen,True,False,False,3GB,32GB,3490000,3490000,0.0,0.0,0.0,0.0,1.0
+720,Vivo,Vivo Y15S,Điện Máy Tiện Lợi S52,Đen,True,False,False,3GB,32GB,3490000,3490000,0.0,0.0,0.0,0.0,1.0
+721,Vivo,Vivo Y21S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,8GB,128GB,4990000,5490000,0.0,0.0,0.0,0.0,0.0
+722,Vivo,Vivo Y21S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,8GB,128GB,4990000,5490000,0.0,0.0,0.0,0.0,0.0
+723,Vivo,Vivo Y21S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,8GB,128GB,4990000,5490000,0.0,0.0,0.0,0.0,0.0
+724,Vivo,Vivo Y21S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,8GB,128GB,4990000,5490000,0.0,0.0,0.0,0.0,0.0
+725,Vivo,Vivo Y21S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,8GB,128GB,4990000,5490000,0.0,0.0,0.0,0.0,0.0
+726,Vivo,Vivo Y21S,Điện Máy Tiện Lợi S52,Xanh,True,False,False,8GB,128GB,4990000,5490000,0.0,0.0,0.0,0.0,0.0
+727,Vivo,Vivo Y33S,Điện Máy Tiện Lợi S52,Đen,True,False,False,8GB,128GB,6990000,5999000,0.0,0.0,0.0,0.0,0.0
+728,Vivo,Vivo Y33S,Điện Máy Tiện Lợi S52,Đen,True,False,False,8GB,128GB,6990000,5999000,0.0,0.0,0.0,0.0,0.0
+729,Oukitel,Oukitel Wp5 Pro,xuanhongmobile,,True,False,False,4GB,,4390000,4390000,0.0,0.0,0.0,0.0,5.0
+730,Oukitel,Oukitel Wp5 Pro,xuanhongmobile,,True,False,False,4GB,,4390000,4390000,0.0,0.0,0.0,0.0,5.0
+731,Oukitel,Oukitel Wp5 Pro,xuanhongmobile,,True,False,False,4GB,,4390000,4390000,0.0,0.0,0.0,0.0,5.0
+732,Oukitel,Oukitel Wp5 Pro,xuanhongmobile,,True,False,False,4GB,,4390000,4390000,0.0,0.0,0.0,0.0,5.0
+733,Oukitel,Oukitel Wp5 Pro,xuanhongmobile,,True,False,False,4GB,,4390000,4390000,0.0,0.0,0.0,0.0,5.0
+734,Oukitel,Oukitel Wp5 Pro,xuanhongmobile,,True,False,False,4GB,,4390000,4390000,0.0,0.0,0.0,0.0,5.0
+735,Ulefone,Ulefone Armor 14,xuanhongmobile,,True,False,False,,64GB,5290000,5290000,0.0,0.0,0.0,0.0,3.0
+736,Ulefone,Ulefone Armor 14,xuanhongmobile,,True,False,False,,64GB,5290000,5290000,0.0,0.0,0.0,0.0,3.0
+737,Ulefone,Ulefone Armor X,xuanhongmobile,,True,False,False,,,2990000,2990000,0.0,1.0,1.0,7.0,22.0
+738,Xiaomi,Poco F4 Gt,Xiaomi Official Stores,Vàng,True,False,False,8GB,128GB,15990000,11290000,0.0,0.0,0.0,0.0,0.0
+739,Xiaomi,Poco F4 Gt,Xiaomi Official Stores,,True,False,False,8GB,128GB,15990000,15990000,0.0,0.0,0.0,0.0,0.0
+740,Xiaomi,Poco F4 Gt,Xiaomi Official Stores,Bạc,True,False,False,8GB,128GB,15990000,11290000,0.0,0.0,0.0,0.0,0.0
+741,Xiaomi,Poco M5,Xiaomi Official Stores,,True,False,False,8GB,128GB,3990000,3990000,0.0,0.0,0.0,0.0,0.0
+742,Xiaomi,Poco M5,Xiaomi Official Stores,,True,False,False,8GB,128GB,3990000,3990000,0.0,0.0,0.0,0.0,0.0
+743,Xiaomi,Poco M5,Xiaomi Official Stores,Vàng,True,False,False,8GB,128GB,3990000,3990000,0.0,0.0,0.0,0.0,0.0
+744,Xiaomi,Poco M5,Xiaomi Official Stores,Vàng,True,False,False,8GB,128GB,3990000,3490000,0.0,0.0,0.0,0.0,0.0
+745,Xiaomi,Poco M5,Xiaomi Official Stores,,True,False,False,8GB,128GB,3990000,3490000,0.0,0.0,0.0,0.0,0.0
+746,Xiaomi,Poco M5,Xiaomi Official Stores,,True,False,False,8GB,128GB,3990000,3490000,0.0,0.0,0.0,0.0,0.0
+747,Xiaomi,Xiaomi Poco F4,Xiaomi Official Stores,,True,False,False,6GB/8GB,128GB/256GB,8990000,8990000,0.0,0.0,0.0,0.0,3.0
+748,Xiaomi,Xiaomi Poco F4,Xiaomi Official Stores,,True,False,False,6GB/8GB,128GB/256GB,8990000,7990000,0.0,0.0,0.0,0.0,0.0
+749,Xiaomi,Xiaomi Poco F4,Xiaomi Official Stores,,True,False,False,6GB/8GB,128GB/256GB,8990000,8990000,0.0,0.0,0.0,0.0,2.0
+750,Xiaomi,Xiaomi Poco F4,Xiaomi Official Stores,,True,False,False,6GB/8GB,128GB/256GB,8990000,7990000,0.0,0.0,0.0,0.0,0.0
+751,Xiaomi,Xiaomi Poco F4,Xiaomi Official Stores,Bạc,True,False,False,6GB/8GB,128GB/256GB,8990000,7990000,0.0,0.0,0.0,0.0,0.0
+752,Xiaomi,Xiaomi Poco X4 Gt,Xiaomi Official Stores,,True,False,False,8GB,128GB/256GB,8490000,7290000,0.0,0.0,0.0,0.0,2.0
+753,Xiaomi,Xiaomi Poco X4 Gt,Xiaomi Official Stores,Bạc,True,False,False,8GB,128GB/256GB,8490000,7290000,0.0,0.0,0.0,0.0,1.0
+754,Xiaomi,Xiaomi Poco X4 Gt,Xiaomi Official Stores,,True,False,False,8GB,128GB/256GB,8490000,7290000,0.0,0.0,0.0,0.0,1.0
+755,Xiaomi,Xiaomi Poco X4 Gt,Xiaomi Official Stores,,True,False,False,8GB,128GB/256GB,8490000,8290000,0.0,0.0,0.0,0.0,0.0
+756,Xiaomi,Xiaomi Poco X4 Gt,Xiaomi Official Stores,,True,False,False,8GB,128GB/256GB,8490000,8290000,0.0,0.0,0.0,0.0,0.0
+757,Xiaomi,Xiaomi Poco X4 Pro 5G,Xiaomi Official Stores,,True,False,False,6GB/8GB,128GB/256GB,8490000,6240000,0.0,0.0,0.0,0.0,1.0
+758,Xiaomi,Xiaomi Poco X4 Pro 5G,Xiaomi Official Stores,,True,False,False,6GB/8GB,128GB/256GB,8490000,6240000,0.0,0.0,0.0,0.0,0.0
+759,Xiaomi,Xiaomi Redmi 10A 653,Xiaomi Official Stores,Xanh,True,False,False,2GB/3GB,32GB/64GB,2890000,2490000,0.0,0.0,0.0,0.0,0.0
+760,Xiaomi,Xiaomi Redmi 10A 653,Xiaomi Official Stores,Bạc,True,False,False,2GB/3GB,32GB/64GB,2890000,2490000,0.0,0.0,0.0,0.0,0.0
+761,Xiaomi,Xiaomi Redmi 10A 653,Xiaomi Official Stores,Xám,True,False,False,2GB/3GB,32GB/64GB,2890000,2490000,0.0,0.0,0.0,0.0,0.0
+762,Xiaomi,Xiaomi Redmi 10C,Xiaomi Official Stores,Xanh,True,False,False,8GB,128GB,3890000,3250000,0.0,0.0,0.0,0.0,1.0
+763,Xiaomi,Xiaomi Redmi 10C,Xiaomi Official Stores,Xám,True,False,False,8GB,128GB,3890000,3250000,0.0,0.0,0.0,0.0,0.0
+764,Xiaomi,Xiaomi Redmi A1,Xiaomi Official Stores,Xanh,True,False,False,2GB,32GB,2490000,1990000,0.0,0.0,0.0,0.0,0.0
+765,Xiaomi,Xiaomi Redmi A1,Xiaomi Official Stores,,True,False,False,2GB,32GB,2490000,1990000,0.0,0.0,0.0,0.0,0.0
+766,Xiaomi,Xiaomi Redmi A1,Xiaomi Official Stores,Xanh,True,False,False,2GB,32GB,2490000,1990000,0.0,0.0,0.0,0.0,0.0
+767,Xiaomi,Xiaomi Redmi Note 11,Xiaomi Official Stores,Xanh,True,False,False,8GB,128GB,6490000,4190000,0.0,0.0,0.0,0.0,0.0
+768,Xiaomi,Xiaomi Redmi Note 11,Xiaomi Official Stores,Xám,True,False,False,8GB,128GB,6490000,4190000,0.0,0.0,0.0,0.0,0.0
+769,Realme,Realme C11,Duy Đức Mobile,Xanh,True,False,False,2GB,32GB,2990000,2690000,0.0,0.0,0.0,0.0,0.0
+770,Realme,Realme C11,Duy Đức Mobile,Xanh,True,False,False,2GB,32GB,2990000,2690000,0.0,0.0,0.0,0.0,0.0
+771,Realme,Realme C11,Duy Đức Mobile,Xám,True,False,False,2GB,32GB,2990000,2690000,0.0,0.0,0.0,0.0,0.0
+772,Realme,Realme C11,Duy Đức Mobile,Xám,True,False,False,2GB,32GB,2990000,2690000,0.0,0.0,0.0,0.0,0.0
+773,Samsung,Samsung Galaxy A03 3GB,SamCenter,,True,False,False,3GB,32GB,2845000,2845000,0.0,0.0,0.0,0.0,0.0
+774,Samsung,Samsung Galaxy A03 3GB,SamCenter,,True,False,False,3GB,32GB,2845000,2845000,0.0,0.0,0.0,0.0,0.0
+775,Samsung,Samsung Galaxy A13,SamCenter,Xanh,True,False,False,8GB,128GB,4990000,4330000,0.0,0.0,0.0,0.0,0.0
+776,Samsung,Samsung Galaxy A13,SamCenter,Đen,True,False,False,8GB,128GB,4990000,4330000,0.0,0.0,0.0,0.0,0.0
+777,Samsung,Samsung Galaxy A22,SamCenter,,True,False,False,8GB,103GB,5490000,4830000,0.0,0.0,0.0,0.0,0.0
+778,Samsung,Samsung Galaxy A22,SamCenter,,True,False,False,8GB,103GB,5490000,4830000,0.0,0.0,0.0,0.0,0.0
+779,Samsung,Samsung Galaxy A22,SamCenter,,True,False,False,8GB,103GB,5490000,4830000,0.0,0.0,0.0,0.0,0.0
+780,Samsung,Samsung Galaxy A22,SamCenter,Đen,True,False,False,8GB,103GB,5490000,5850000,0.0,0.0,0.0,0.0,0.0
+781,Samsung,Samsung Galaxy A23,SamCenter,Xanh,True,False,False,8GB,128GB,5690000,5050000,0.0,0.0,0.0,0.0,0.0
+782,Samsung,Samsung Galaxy A23,SamCenter,Đen,True,False,False,8GB,128GB,5690000,5050000,0.0,0.0,0.0,0.0,0.0
+783,Samsung,Samsung Galaxy A23,SamCenter,Cam,True,False,False,8GB,128GB,5690000,5050000,0.0,0.0,0.0,0.0,0.0
+784,Samsung,Samsung Galaxy A32,SamCenter,Tím,True,False,False,,128GB,5290000,6490000,0.0,0.0,0.0,0.0,0.0
+785,Samsung,Samsung Galaxy A52S,SamCenter,,True,False,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,0.0,0.0
+786,Samsung,Samsung Galaxy A52S,SamCenter,,True,False,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,0.0,0.0
+787,Samsung,Samsung Galaxy A52S,SamCenter,,True,False,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,0.0,0.0
+788,Samsung,Samsung Galaxy A53 5G,SamCenter,Cam,True,False,False,8GB,128GB,9990000,9690000,0.0,0.0,0.0,0.0,0.0
+789,Samsung,Samsung Galaxy A53 5G,SamCenter,Xanh,True,False,False,8GB,128GB,9990000,9690000,0.0,0.0,0.0,0.0,0.0
+790,Samsung,Samsung Galaxy S20 FE,SamCenter,Xanh,True,False,False,8GB,256GB,13990000,8850000,2.0,0.0,2.0,6.0,37.0
+791,Samsung,Samsung Galaxy S20 FE,SamCenter,Xanh,True,False,False,8GB,256GB,13990000,8850000,1.0,0.0,2.0,9.0,47.0
+792,Samsung,Samsung Galaxy S21 FE 5G,SamCenter,,True,False,False,8GB,8GB,15990000,12485000,0.0,0.0,0.0,0.0,2.0
+793,Samsung,Samsung Galaxy S21 FE 5G,SamCenter,,True,False,False,8GB,8GB,15990000,12485000,0.0,0.0,0.0,0.0,0.0
+794,Samsung,Samsung Galaxy S22 5G,SamCenter,Đen,True,False,False,8GB,256GB,23490000,15705000,0.0,0.0,0.0,0.0,0.0
+795,Samsung,Samsung Galaxy S22 5G,SamCenter,Xanh,True,False,False,8GB,256GB,23490000,13450000,0.0,0.0,0.0,0.0,0.0
+796,Samsung,Samsung Galaxy S22 5G,SamCenter,Hồng,True,False,False,8GB,256GB,23490000,15705000,0.0,0.0,0.0,0.0,0.0
+797,Samsung,Samsung Galaxy S22 5G,SamCenter,Xanh,True,False,False,8GB,256GB,23490000,15705000,0.0,0.0,0.0,0.0,0.0
+798,Samsung,Samsung Galaxy S22 5G,SamCenter,Đen,True,False,False,8GB,256GB,23490000,13450000,0.0,0.0,0.0,0.0,1.0
+799,Samsung,Samsung Galaxy S22 5G,SamCenter,Trắng,True,False,False,8GB,256GB,23490000,13450000,0.0,0.0,0.0,0.0,0.0
+800,Samsung,Samsung Galaxy S22 5G,SamCenter,Hồng,True,False,False,8GB,256GB,23490000,13450000,0.0,0.0,0.0,0.0,1.0
+801,Samsung,Samsung Galaxy S22 5G,SamCenter,Trắng,True,False,False,8GB,256GB,23490000,15705000,0.0,0.0,0.0,0.0,0.0
+802,Samsung,Samsung Galaxy S22 Plus 5G,SamCenter,Xanh,True,False,False,8GB,256GB,27490000,17350000,0.0,0.0,0.0,0.0,0.0
+803,Samsung,Samsung Galaxy S22 Plus 5G,SamCenter,Hồng,True,False,False,8GB,256GB,27490000,17350000,0.0,0.0,0.0,0.0,0.0
+804,Samsung,Samsung Galaxy S22 Plus 5G,SamCenter,Đen,True,False,False,8GB,256GB,27490000,17350000,0.0,0.0,0.0,0.0,1.0
+805,Samsung,Samsung Galaxy S22 Plus 5G,SamCenter,Trắng,True,False,False,8GB,256GB,27490000,16950000,0.0,0.0,0.0,0.0,0.0
+806,Samsung,Samsung Galaxy S22 Plus 5G,SamCenter,Hồng,True,False,False,8GB,256GB,27490000,16950000,0.0,0.0,0.0,0.0,0.0
+807,Samsung,Samsung Galaxy S22 Plus 5G,SamCenter,Xanh,True,False,False,8GB,256GB,27490000,16950000,0.0,0.0,0.0,0.0,1.0
+808,Samsung,Samsung Galaxy S22 Plus 5G,SamCenter,Đen,True,False,False,8GB,256GB,27490000,16950000,0.0,0.0,0.0,0.0,1.0
+809,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Xanh,True,False,False,6GB,256GB,33990000,26550000,0.0,0.0,0.0,0.0,1.0
+810,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Đỏ,True,False,False,6GB,256GB,33990000,26550000,0.0,0.0,0.0,0.0,0.0
+811,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Trắng,True,False,False,6GB,256GB,33990000,26975000,0.0,0.0,0.0,0.0,0.0
+812,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Đen,True,False,False,6GB,256GB,33990000,26550000,0.0,0.0,0.0,0.0,0.0
+813,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Trắng,True,False,False,6GB,256GB,33990000,22565000,0.0,0.0,0.0,0.0,0.0
+814,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Xanh,True,False,False,6GB,256GB,33990000,22565000,0.0,1.0,0.0,0.0,0.0
+815,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Đỏ,True,False,False,6GB,256GB,33990000,22565000,0.0,0.0,0.0,0.0,0.0
+816,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Đen,True,False,False,6GB,256GB,33990000,22565000,0.0,0.0,0.0,0.0,0.0
+817,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Đỏ,True,False,False,6GB,256GB,33990000,23950000,0.0,0.0,0.0,0.0,0.0
+818,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Đen,True,False,False,6GB,256GB,33990000,24360000,0.0,0.0,0.0,0.0,0.0
+819,Samsung,Samsung Galaxy S22 Ultra 5G,SamCenter,Trắng,True,False,False,6GB,256GB,33990000,24360000,0.0,0.0,0.0,0.0,1.0
+820,Samsung,Samsung Galaxy Z Flip3 5G,SamCenter,Đen,True,False,False,8GB,128GB,22250000,22250000,0.0,0.0,0.0,0.0,2.0
+821,Samsung,Samsung Galaxy Z Flip3 5G,SamCenter,Xanh,True,False,False,8GB,128GB,22250000,22450000,0.0,0.0,0.0,0.0,0.0
+822,Samsung,Samsung Galaxy Z Flip4,SamCenter,,True,False,False,8GB,128GB,23990000,19120000,0.0,0.0,0.0,0.0,0.0
+823,Samsung,Samsung Galaxy Z Flip4,SamCenter,,True,False,False,8GB,128GB,23990000,19120000,0.0,0.0,0.0,0.0,0.0
+824,Samsung,Samsung Galaxy Z Flip4,SamCenter,,True,False,False,8GB,128GB,23990000,19120000,0.0,0.0,0.0,0.0,0.0
+825,Samsung,Samsung Galaxy Z Flip4,SamCenter,,True,False,False,8GB,128GB,23990000,19120000,0.0,0.0,0.0,0.0,0.0
+826,Samsung,Samsung Galaxy Z Flip4,SamCenter,,True,False,False,8GB,128GB,23990000,20890000,0.0,0.0,0.0,0.0,0.0
+827,Samsung,Samsung Galaxy Z Flip4,SamCenter,,True,False,False,8GB,128GB,23990000,20890000,0.0,0.0,0.0,0.0,0.0
+828,Samsung,Samsung Galaxy Z Flip4,SamCenter,,True,False,False,8GB,128GB,23990000,20890000,0.0,0.0,0.0,0.0,0.0
+829,Samsung,Samsung Galaxy Z Fold3 5G,SamCenter,Bạc,True,False,False,6GB,256GB,34950000,34950000,0.0,0.0,0.0,0.0,0.0
+830,Samsung,Samsung Galaxy Z Fold3 5G,SamCenter,Xanh,True,False,False,6GB,256GB,34950000,34950000,0.0,0.0,0.0,0.0,0.0
+831,Samsung,Samsung Galaxy Z Fold4,SamCenter,,True,False,False,2GB,512GB,44490000,33990000,0.0,0.0,0.0,0.0,0.0
+832,Samsung,Samsung Galaxy Z Fold4,SamCenter,,True,False,False,2GB,512GB,44490000,36990000,0.0,0.0,0.0,0.0,0.0
+833,Samsung,Samsung Galaxy Z Fold4,SamCenter,,True,False,False,2GB,512GB,44490000,33990000,0.0,0.0,0.0,0.0,0.0
+834,Samsung,Samsung Galaxy Z Fold4,SamCenter,,True,False,False,2GB,512GB,44490000,36990000,0.0,0.0,0.0,0.0,0.0
+835,Samsung,Samsung Galaxy Z Fold4,SamCenter,,True,False,False,2GB,512GB,44490000,33990000,0.0,0.0,0.0,0.0,0.0
+836,Samsung,Samsung Galaxy A03S,Antam Trading,Xanh,True,True,False,4GB,54GB,3690000,2765000,0.0,0.0,0.0,1.0,7.0
+837,Samsung,Samsung Galaxy A03S,Antam Trading,Đen,True,True,False,4GB,54GB,3690000,2765000,0.0,1.0,0.0,1.0,6.0
+838,Samsung,Samsung Galaxy A33 5G,Antam Trading,Xanh,True,True,False,8GB,128GB,8490000,8990000,0.0,0.0,0.0,0.0,0.0
+839,Samsung,Samsung Galaxy A33 5G,Antam Trading,Đen,True,True,False,8GB,128GB,8490000,8990000,0.0,0.0,0.0,0.0,0.0
+840,Samsung,Samsung Galaxy A33 5G,Antam Trading,Cam,True,True,False,8GB,128GB,8490000,8990000,0.0,0.0,0.0,0.0,0.0
+841,Samsung,Samsung Galaxy A33 5G,Antam Trading,Trắng,True,True,False,8GB,128GB,8490000,8990000,0.0,0.0,0.0,0.0,0.0
+842,Samsung,Samsung Galaxy A53 5G,Antam Trading,Xanh,True,True,False,8GB,128GB,9990000,9990000,0.0,0.0,0.0,1.0,1.0
+843,Samsung,Samsung Galaxy S22 Ultra 5G,Antam Trading,Xanh,True,True,False,6GB,256GB,33990000,20990000,0.0,0.0,0.0,0.0,0.0
+844,Samsung,Samsung Galaxy S22 Ultra 5G,Antam Trading,Đỏ,True,True,False,6GB,256GB,33990000,20990000,0.0,0.0,0.0,0.0,0.0
+845,Samsung,Samsung Galaxy S22 Ultra 5G,Antam Trading,Xanh,True,True,False,6GB,256GB,33990000,33990000,1.0,0.0,0.0,0.0,1.0
+846,Samsung,Samsung Galaxy S22 Ultra 5G,Antam Trading,Đen,True,True,False,6GB,256GB,33990000,33990000,0.0,0.0,0.0,0.0,1.0
+847,Samsung,Samsung Galaxy S22 Ultra 5G,Antam Trading,Trắng,True,True,False,6GB,256GB,33990000,33990000,0.0,0.0,0.0,0.0,0.0
+848,Samsung,Samsung Galaxy S22 Ultra 5G,Antam Trading,Đỏ,True,True,False,6GB,256GB,33990000,33990000,0.0,0.0,0.0,0.0,2.0
+849,Samsung,Samsung Galaxy Z Flip4,Antam Trading,Xám,True,True,False,8GB,128GB,23990000,23990000,0.0,0.0,0.0,0.0,0.0
+850,Samsung,Samsung Galaxy Z Flip4,Antam Trading,Tím,True,True,False,8GB,128GB,23990000,23990000,0.0,0.0,0.0,0.0,0.0
+851,Samsung,Samsung Galaxy Z Flip4,Antam Trading,Xanh,True,True,False,8GB,128GB,23990000,23990000,0.0,0.0,0.0,0.0,0.0
+852,Samsung,Samsung Galaxy Z Flip4,Antam Trading,Hồng,True,True,False,8GB,128GB,23990000,23990000,0.0,0.0,0.0,0.0,0.0
+853,Samsung,Samsung Galaxy A23,MT Smart Official Store ,Xanh,True,False,False,8GB,128GB,5690000,5390000,0.0,0.0,0.0,0.0,0.0
+854,Samsung,Samsung Galaxy S22 Ultra 5G,MT Smart Official Store ,Trắng,True,False,False,6GB,256GB,33990000,25490000,0.0,0.0,0.0,0.0,0.0
+855,Samsung,Samsung Galaxy S22 Ultra 5G,MT Smart Official Store ,Trắng,True,False,False,6GB,256GB,33990000,25490000,0.0,0.0,0.0,0.0,0.0
+856,Samsung,Samsung Galaxy A23,Phonestore,Cam,True,True,False,8GB,128GB,5690000,5685000,0.0,0.0,0.0,0.0,0.0
+857,Samsung,Samsung Galaxy A23,Phonestore,Cam,True,True,False,8GB,128GB,5690000,5685000,0.0,0.0,0.0,0.0,0.0
+858,Samsung,Samsung Galaxy A52S 5G,Phonestore,Tím,True,True,False,8GB,128GB,10990000,8300000,0.0,0.0,0.0,1.0,1.0
+859,Samsung,Samsung Galaxy A52S 5G,Phonestore,Trắng,True,True,False,8GB,128GB,10990000,8300000,0.0,1.0,0.0,0.0,3.0
+860,Samsung,Samsung Galaxy A52S 5G,Phonestore,Xanh,True,True,False,8GB,128GB,10990000,8300000,0.0,0.0,0.0,3.0,1.0
+861,Samsung,Samsung Galaxy A52S 5G,Phonestore,Đen,True,True,False,8GB,128GB,10990000,8300000,0.0,0.0,0.0,0.0,1.0
+862,Samsung,Samsung Galaxy A73 5G,Phonestore,Xanh lá,True,True,False,8GB,128GB,11000000,9594000,0.0,0.0,0.0,0.0,2.0
+863,Samsung,Samsung Galaxy Note 20 Ultra,Phonestore,,True,True,False,8GB,256GB,28990000,28990000,0.0,0.0,0.0,1.0,4.0
+864,Samsung,Samsung Galaxy Z Flip3,Phonestore,Đen,True,True,False,8GB,128GB,22590000,22590000,0.0,0.0,0.0,0.0,1.0
+865,Samsung,Samsung Galaxy Z Flip3,Phonestore,,True,True,False,8GB,128GB,22590000,22590000,0.0,0.0,0.0,0.0,1.0
+866,Samsung,Samsung Galaxy Z Flip3,Phonestore,Kem,True,True,False,8GB,128GB,22590000,22590000,0.0,0.0,0.0,0.0,2.0
+867,Tecno,Tecno Pop 5,Tecno Official Store,,True,False,False,2GB,32GB,2090000,2090000,0.0,0.0,1.0,4.0,12.0
+868,Tecno,Tecno Pop 5,Tecno Official Store,,True,False,False,2GB,32GB,2090000,2090000,0.0,0.0,1.0,4.0,12.0
+869,Tecno,Tecno Pova 2,Tecno Official Store,Bạc,True,False,False,4GB,64GB,4290000,3190000,1.0,0.0,1.0,1.0,14.0
+870,Tecno,Tecno Pova 2,Tecno Official Store,Bạc,True,False,False,4GB,64GB,4290000,3190000,1.0,0.0,1.0,1.0,14.0
+871,Tecno,Tecno Pova 2,Tecno Official Store,Xanh,True,False,False,4GB,64GB,4290000,3190000,0.0,0.0,0.0,1.0,14.0
+872,Tecno,Tecno Pova 2,Tecno Official Store,Xanh,True,False,False,4GB,64GB,4290000,3190000,0.0,0.0,0.0,1.0,14.0
+873,Tecno,Tecno Pova 3,Tecno Official Store,Xanh,True,False,False,11GB,128GB,4990000,4290000,0.0,2.0,2.0,5.0,50.0
+874,Tecno,Tecno Spark 8C,Tecno Official Store,,True,False,False,3GB,64GB,2480000,2549000,0.0,0.0,0.0,0.0,9.0
+875,Tecno,Tecno Spark 8C,Tecno Official Store,,True,False,False,3GB,64GB,2480000,2990000,0.0,0.0,0.0,0.0,1.0
+876,Tecno,Tecno Spark 8C,Tecno Official Store,,True,False,False,3GB,64GB,2480000,2990000,0.0,0.0,0.0,0.0,0.0
+877,Vivo,Vivo T1X,vivo Official Store,Đen,True,False,False,4GB,64GB,4490000,5290000,0.0,0.0,0.0,0.0,0.0
+878,Vivo,Vivo T1X,vivo Official Store,Xanh,True,False,False,4GB,64GB,4490000,5290000,0.0,0.0,0.0,0.0,0.0
+879,Vivo,Vivo V23E,vivo Official Store,Đen,True,False,False,8GB,128GB,8490000,8490000,0.0,0.0,0.0,0.0,0.0
+880,Vivo,Vivo V23E,vivo Official Store,Đen,True,False,False,8GB,128GB,8490000,8490000,0.0,0.0,0.0,0.0,0.0
+881,Vivo,Vivo V25 5G 2022,vivo Official Store,Đen,True,False,False,8GB,128GB,10490000,9690000,0.0,0.0,0.0,0.0,0.0
+882,Vivo,Vivo V25 5G 2022,vivo Official Store,Vàng,True,False,False,8GB,128GB,10490000,9690000,0.0,0.0,0.0,0.0,0.0
+883,Vivo,Vivo V25E 2022,vivo Official Store,,True,False,False,8GB,128GB,8490000,7990000,0.0,0.0,0.0,0.0,0.0
+884,Vivo,Vivo V25E 2022,vivo Official Store,,True,False,False,8GB,128GB,8490000,7990000,0.0,0.0,0.0,0.0,0.0
+885,Vivo,Vivo X70 Pro 5G,vivo Official Store,Đen,True,False,False,12GB,256GB,19990000,19990000,0.0,0.0,0.0,0.0,0.0
+886,Vivo,Vivo X70 Pro 5G,vivo Official Store,Xanh,True,False,False,12GB,256GB,19990000,19990000,0.0,0.0,0.0,0.0,0.0
+887,Vivo,Vivo Y02S,vivo Official Store,,True,False,False,3GB,32GB,3490000,3200000,0.0,0.0,0.0,0.0,0.0
+888,Vivo,Vivo Y02S,vivo Official Store,,True,False,False,3GB,32GB,3490000,3200000,0.0,0.0,0.0,0.0,0.0
+889,Vivo,Vivo Y16,vivo Official Store,,True,False,False,4GB,128GB,4490000,4190000,0.0,0.0,0.0,0.0,0.0
+890,Vivo,Vivo Y16,vivo Official Store,,True,False,False,4GB,128GB,4490000,4190000,0.0,0.0,0.0,0.0,0.0
+891,Vivo,Vivo Y16,vivo Official Store,,True,False,False,4GB,128GB,4490000,4190000,0.0,0.0,0.0,0.0,0.0
+892,Vivo,Vivo Y16,vivo Official Store,Vàng,True,False,False,4GB,128GB,4490000,4190000,0.0,0.0,0.0,0.0,0.0
+893,Vivo,Vivo Y16,vivo Official Store,Vàng,True,False,False,4GB,128GB,4490000,4190000,0.0,0.0,0.0,0.0,0.0
+894,Vivo,Vivo Y16,vivo Official Store,Vàng,True,False,False,4GB,128GB,4490000,4190000,0.0,0.0,0.0,0.0,0.0
+895,Vivo,Vivo Y22S,vivo Official Store,Xanh,True,False,False,8GB,128GB,5990000,5490000,0.0,0.0,0.0,0.0,0.0
+896,Vivo,Vivo Y22S,vivo Official Store,Xanh,True,False,False,8GB,128GB,5990000,5490000,0.0,0.0,0.0,0.0,0.0
+897,Vivo,Vivo Y22S,vivo Official Store,Xanh,True,False,False,8GB,128GB,5990000,5490000,0.0,0.0,0.0,0.0,0.0
+898,Vivo,Vivo Y22S,vivo Official Store,Xanh,True,False,False,8GB,128GB,5990000,5490000,0.0,0.0,0.0,0.0,0.0
+899,Vivo,Vivo Y22S,vivo Official Store,Xanh,True,False,False,8GB,128GB,5990000,5490000,0.0,0.0,0.0,0.0,0.0
+900,Vivo,Vivo Y22S,vivo Official Store,Xanh,True,False,False,8GB,128GB,5990000,5490000,0.0,0.0,0.0,0.0,0.0
+901,Vsmart,Vsmart Joy4,VTMobile,Trắng,True,False,False,4GB/3GB,64GB,3190000,3190000,0.0,0.0,0.0,0.0,0.0
+902,Vsmart,Vsmart Joy4,VTMobile,Đen,True,False,False,4GB/3GB,64GB,3190000,3190000,0.0,0.0,0.0,0.0,0.0
+903,Vsmart,Vsmart Joy4,VTMobile,Xanh,True,False,False,4GB/3GB,64GB,3190000,3190000,0.0,0.0,0.0,0.0,0.0
+904,Vsmart,Vsmart Joy4,VTMobile,Trắng,True,False,False,4GB/3GB,64GB,3190000,3190000,0.0,0.0,0.0,0.0,0.0
+905,Vsmart,Vsmart Joy4,VTMobile,Xanh,True,False,False,4GB/3GB,64GB,3190000,3190000,0.0,0.0,0.0,0.0,0.0
+906,Vsmart,Vsmart Joy4,VTMobile,Đen,True,False,False,4GB/3GB,64GB,3190000,3190000,0.0,0.0,0.0,0.0,0.0
+907,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xám,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+908,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xám,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+909,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xám,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+910,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xanh,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+911,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xanh,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+912,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xanh,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+913,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xanh,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+914,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xanh,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+915,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xanh,True,False,False,8GB,128GB,6490000,4790000,0.0,0.0,0.0,0.0,0.0
+916,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xám,True,False,False,8GB,128GB,6490000,4390000,0.0,0.0,0.0,0.0,0.0
+917,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xám,True,False,False,8GB,128GB,6490000,4690000,0.0,0.0,0.0,0.0,0.0
+918,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,Xám,True,False,False,8GB,128GB,6490000,4690000,0.0,0.0,0.0,0.0,0.0
+919,Xiaomi,Xiaomi Redmi Note 11,GiaPhucStore,,True,False,False,8GB,128GB,6490000,4690000,0.0,0.0,0.0,0.0,0.0
+920,ZTE,ZTE Blade A31 Plus,ZTE Official Store,Xám,True,False,False,2GB,32GB,1990000,1890000,0.0,0.0,0.0,0.0,1.0
+921,ZTE,ZTE Blade A51,ZTE Official Store,Xanh,True,False,False,4GB,64GB,2690000,2590000,0.0,0.0,0.0,0.0,2.0
+922,ZTE,ZTE Blade A51,ZTE Official Store,Xám,True,False,False,4GB,64GB,2690000,2590000,0.0,0.0,0.0,0.0,0.0
+923,ZTE,ZTE Blade V40 Vita 5,ZTE Official Store,,True,False,False,,,4290000,3790000,0.0,0.0,0.0,0.0,0.0
+924,ZTE,ZTE Blade V40 Vita 5,ZTE Official Store,Xám,True,False,False,,,4290000,3790000,0.0,0.0,0.0,0.0,0.0
+925,ZTE,ZTE Nubia Redmagic 6R,ZTE Official Store,,True,False,False,,,15990000,13490000,0.0,0.0,0.0,0.0,0.0
+926,ZTE,ZTE Nubia Redmagic 6S Pro Cyborg,ZTE Official Store,,True,False,False,12GB,128GB,17990000,15990000,0.0,0.0,0.0,0.0,0.0
+927,ZTE,ZTE Nubia Redmagic 6S Pro Cyborg,ZTE Official Store,,True,False,False,12GB,128GB,17990000,15990000,0.0,0.0,0.0,0.0,0.0

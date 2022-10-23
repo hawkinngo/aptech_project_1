@@ -315,3 +315,41 @@ COLOR_FILTER_BLUE = [
 ]
 COLOR_FILTER_WHITE = ["White"]
 COLOR_FILTER_BLACK = ["Black"]
+
+# Ram filter
+RAM_REPLACE = {
+    "-GB": "N\A",
+    " GB": "GB",
+    "gb": "GB",
+    "Gb": "GB",
+    " / ": "/",
+    "* （6GB + 5GB RAM mở rộng）": "",
+    "4GB+3GB": "7GB",
+    "8GB + 5GB": "13GB",
+    "RAM 8GB + RAM Mở Rộng 4GB": "12GB",
+    "G": "GB",
+    "GBB": "GB",
+}
+
+# Ram filter
+STORAGE_REPLACE = {
+    "-GB": "N\A",
+    " GB": "GB",
+    "gb": "GB",
+    "Gb": "GB",
+    " / ": "/",
+    "Tùy chọn ": "",
+    "Đang cập nhậtGB": "N\A",
+    " e-MMC 5.1, hỗ trợ thẻ nhớ ngoài 64GB": "",
+    "Khoảng ": "",
+    "32GB+2GB": "32GB",
+    "100GB": "128GB",
+    "100.1GB": "128GB",
+    "102GB": "128GB",
+    "105.1GB": "128GB",
+    "110GB": "128GB",
+    "115GB": "128GB",
+    "118GB": "128GB",
+    "G": "GB",
+    "GBB": "GB",
+}
